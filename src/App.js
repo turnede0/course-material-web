@@ -3,22 +3,25 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
-import Course from "./pages/course";
+import Home from "./routes/home";
+import Course from "./routes/course";
+import CourseDetail from "./routes/courseDetail";
 
 function App() {
   return (
     <div>
       <Navbar />
-
-      {/* <Analytics />
-      <Newsletter /> */}
       <Routes>
         <Route path="/" element={<Home />}></Route>
-        <Route path="/course" element={<Course />}></Route>
+        <Route path="/course">
+          <Route index exact element={<Course />} />
+          <Route path={`/course/:courseId`} element={<CourseDetail />} />
+        </Route>
       </Routes>
+      {/* <RouterProvider router={router} /> */}
       <Footer />
     </div>
+    // <RouterProvider router={router} />
   );
 }
 
