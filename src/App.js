@@ -6,6 +6,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./routes/home";
 import Course from "./routes/course";
 import CourseDetail from "./routes/courseDetail";
+import Category from "./components/Category";
 
 function App() {
   return (
@@ -13,9 +14,15 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />}></Route>
-        <Route path="/course">
-          <Route index exact element={<Course />} />
-          <Route path={`/course/:courseId`} element={<CourseDetail />} />
+        <Route path="/category">
+          <Route index exact element={<Category />} />
+          <Route path={`/category/:categoryName`}>
+            <Route index exact element={<Course />} />
+            <Route
+              path={`/category/:categoryName/:courseId`}
+              element={<CourseDetail />}
+            />
+          </Route>
         </Route>
       </Routes>
       {/* <RouterProvider router={router} /> */}
