@@ -1,7 +1,8 @@
 export const CourseInfo = [
   {
     category: "hardware",
-    categoryDescription: "",
+    categoryDescription:
+      "Hardware is best described as any physical component of a computer system containing a circuit board, ICs, or other electronics. A perfect example of hardware is the screen on which you are viewing this page. Whether it be a monitor, tablet, or smartphone, it is hardware.",
     courses: [
       {
         courseName: "Intro to PCB",
@@ -62,7 +63,8 @@ export const CourseInfo = [
   },
   {
     category: "web",
-    categoryDescription: "",
+    categoryDescription:
+      "web development involves the creation and maintenance of websites. By “website,” we mean a collection of web pages that are publicly accessible on the internet",
     courses: [
       {
         courseName: "Intro to web development",
