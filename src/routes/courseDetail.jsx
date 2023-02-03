@@ -4,12 +4,11 @@ import { useParams } from "react-router";
 import { CourseInfo } from "../assets/course/CourseInfo";
 
 function CourseDetail() {
-  const params = useParams();
+  const { categoryName } = useParams();
 
   return (
     <div>
       <Analytics />
-      {JSON.stringify(params)}
       {CourseInfo[0].courseName}
     </div>
   );

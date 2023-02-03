@@ -10,13 +10,13 @@ const Category = () => {
           Category
         </h1>
       </div>
-      <section class="overflow-hidden text-gray-700 ">
-        <div class="container px-5 py-2 mx-auto lg:pt-12 lg:px-32">
-          <div class="flex flex-wrap -m-1 md:-m-2">
+      <section className="overflow-hidden text-gray-700 ">
+        <div className="container px-5 py-2 mx-auto lg:pt-12 lg:px-32">
+          <div className="flex flex-wrap -m-1 md:-m-2">
             {CourseCategory.map((categoryitem, index) => {
               return (
                 <div
-                  className="relative flex flex-wrap w-1/3 hover:scale-105 duration-300 p-2"
+                  className="relative flex flex-wrap md:w-1/2 lg:w-1/3 hover:scale-105 duration-300 p-2"
                   key={index}
                 >
                   {categoryitem.isActive ? (

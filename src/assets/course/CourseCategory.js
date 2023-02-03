@@ -6,22 +6,22 @@ export const CourseCategory = [
     isActive: true,
   },
   {
-    categoryName: "software",
-    imgUrl:
-      "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(72).webp",
-    isActive: true,
-  },
-  {
     categoryName: "web",
     imgUrl:
       "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp",
     isActive: true,
   },
   {
+    categoryName: "software",
+    imgUrl:
+      "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(72).webp",
+    isActive: false,
+  },
+  {
     categoryName: "science",
     imgUrl:
       "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp",
-    isActive: true,
+    isActive: false,
   },
   {
     categoryName: "FPGA",

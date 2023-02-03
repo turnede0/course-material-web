@@ -4,8 +4,13 @@ import Double from "../assets/double.png";
 import Triple from "../assets/triple.png";
 import { CourseInfo } from "../assets/course/CourseInfo";
 import { Link } from "react-router-dom";
+import { useParams } from "react-router-dom";
 
 const Cards = () => {
+  const { categoryName } = useParams();
+  const category = CourseInfo.filter(
+    (item) => item.category === categoryName
+  )[0];
   return (
     <div className="w-full py-[10rem] px-4 bg-white">
       <div className="max-w-[800px] w-full h-[200px] mx-auto text-center flex flex-col justify-center">
@@ -15,33 +20,33 @@ const Cards = () => {
       </div>
 
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
-        {CourseInfo.map((courseitem, index) => {
+        {category.courses.map((courseitem, index) => {
           return (
             <div
-              class="flex justify-center hover:scale-105 duration-300"
+              className="flex justify-center hover:scale-105 duration-300"
               key={index}
             >
-              <div class="rounded-lg shadow-lg bg-white max-w-sm">
+              <div className="rounded-lg shadow-lg bg-white max-w-sm">
                 <a
                   href="#!"
                   data-mdb-ripple="true"
                   data-mdb-ripple-color="light"
                 >
                   <img
-                    class="rounded-t-lg"
+                    className="rounded-t-lg"
                     src="https://mdbootstrap.com/img/new/standard/nature/182.jpg"
                     alt=""
                   />
                 </a>
-                <div class="p-6">
+                <div className="p-6">
                   <span>ID: {courseitem.courseID}</span>
-                  <h5 class="text-gray-900 text-xl font-medium mb-2">
+                  <h5 className="text-gray-900 text-xl font-medium mb-2">
                     {courseitem.courseName}
                   </h5>
-                  <span class="inline-block py-1.5 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-[#00df9a] text-white rounded">
+                  <span className="inline-block py-1.5 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-[#00df9a] text-white rounded">
                     {courseitem.category}
                   </span>
-                  <p class="text-gray-700 text-base mb-4">
+                  <p className="text-gray-700 text-base mb-4">
                     {courseitem.description}
                   </p>
                   <div className="w-full flex justify-center ">
