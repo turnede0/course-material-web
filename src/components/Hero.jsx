@@ -23,11 +23,16 @@ const Hero = () => {
         <p className="md:text-2xl text-xl font-bold text-gray-500">
           Learning for a Lifetime online. at School. at work.
         </p>
-        <Link to="/course">
-          <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
-            Get Started
-          </button>
-        </Link>
+
+        <button
+          className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black"
+          onClick={() => {
+            const anchor = document.querySelector("#category");
+            anchor.scrollIntoView({ behavior: "smooth", block: "center" });
+          }}
+        >
+          Get Started
+        </button>
       </div>
     </div>
   );

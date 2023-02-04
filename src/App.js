@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -7,8 +7,15 @@ import Home from "./routes/home";
 import Course from "./routes/course";
 import CourseDetail from "./routes/courseDetail";
 import Category from "./components/Category";
+import "tw-elements";
 
 function App() {
+  useEffect(() => {
+    const use = async () => {
+      await import("tw-elements");
+    };
+    use();
+  }, []);
   return (
     <div>
       <Navbar />

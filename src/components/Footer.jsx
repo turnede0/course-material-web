@@ -1,10 +1,11 @@
 import React from "react";
 import {
-  FaDribbbleSquare,
   FaFacebookSquare,
   FaGithubSquare,
   FaInstagram,
-  FaTwitterSquare,
+  FaYoutube,
+  FaLinkedin,
+
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -18,14 +19,20 @@ const Footer = () => {
           accusantium.
         </p>
         <div className="flex justify-between md:w-[75%] my-6">
-          <FaFacebookSquare size={30} />
-          <FaInstagram size={30} />
-          <FaTwitterSquare size={30} />
-          <FaGithubSquare size={30} />
-          <FaDribbbleSquare size={30} />
+          <a href="https://www.facebook.com/TURNEDEEDUCATION/">
+            <FaFacebookSquare size={30} />
+          </a>
+          {/* <FaInstagram size={30} />
+          <FaGithubSquare size={30} /> */}
+          <a href="https://www.linkedin.com/company/turned-e-education/?originalSubdomain=hk">
+            <FaLinkedin size={30} />
+          </a>
+          <a href="https://www.youtube.com/@turned-eeducation5461">
+            <FaYoutube size={30} />
+          </a>
         </div>
       </div>
-      <div className="lg:col-span-2 flex justify-between mt-6">
+      {/* <div className="lg:col-span-2 flex justify-between mt-6">
         <div>
           <h6 className="font-medium text-gray-400">Solutions</h6>
           <ul>
@@ -62,7 +69,7 @@ const Footer = () => {
             <li className="py-2 text-sm">Terms</li>
           </ul>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

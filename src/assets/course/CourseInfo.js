@@ -11,15 +11,18 @@ export const CourseInfo = [
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum molestiae delectus culpa hic assumenda, voluptate reprehenderit dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit, eveniet ex deserunt fuga?",
         category: "hardware",
         image: "",
-        downloadUrl: "",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "Propositional logic",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "Predicate logic",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
         ],
       },
@@ -32,12 +35,14 @@ export const CourseInfo = [
         image: "",
         resources: [
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
         ],
       },
@@ -50,12 +55,14 @@ export const CourseInfo = [
         image: "",
         resources: [
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
         ],
       },
@@ -75,12 +82,14 @@ export const CourseInfo = [
         image: "",
         resources: [
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
         ],
       },
@@ -93,12 +102,14 @@ export const CourseInfo = [
         image: "",
         resources: [
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
           {
-            filename: "",
-            fileDownloadUrl: "",
+            topic: "",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
           },
         ],
       },

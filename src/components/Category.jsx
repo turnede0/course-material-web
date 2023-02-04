@@ -2,15 +2,18 @@ import React from "react";
 import { CourseCategory } from "../assets/course/CourseCategory";
 import { Link } from "react-router-dom";
 
-const Category = () => {
+const Category = (ref) => {
   return (
     <div className="w-full h-full py-[3rem] px-4 bg-white">
       <div className="max-w-[800px] w-full h-[200px] mx-auto text-center flex flex-col justify-center">
-        <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
+        <h1
+          className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6"
+          id="category"
+        >
           Category
         </h1>
       </div>
-      <section className="overflow-hidden text-gray-700 ">
+      <section className="overflow-hidden text-gray-700 z-0">
         <div className="container px-5 py-2 mx-auto lg:pt-12 lg:px-32">
           <div className="flex flex-wrap -m-1 md:-m-2">
             {CourseCategory.map((categoryitem, index) => {
