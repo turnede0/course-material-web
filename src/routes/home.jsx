@@ -5,12 +5,11 @@ import Hero from "../components/Hero";
 import Newsletter from "../components/Newsletter";
 
 function Home() {
-  const catRef = useRef(null);
   return (
     <div>
       <Hero />
       <Category />
-      <Newsletter />
+      {/* <Newsletter /> */}
     </div>
   );
 }

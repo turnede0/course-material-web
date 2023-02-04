@@ -1,21 +1,13 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Footer from "./components/Footer";
-import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import { Routes, Route } from "react-router-dom";
 import Home from "./routes/home";
-import Course from "./routes/course";
+import CategoryDetail from "./routes/categoryDetail";
 import CourseDetail from "./routes/courseDetail";
 import Category from "./components/Category";
-import "tw-elements";
 
 function App() {
-  useEffect(() => {
-    const use = async () => {
-      await import("tw-elements");
-    };
-    use();
-  }, []);
   return (
     <div>
       <Navbar />
@@ -24,7 +16,7 @@ function App() {
         <Route path="/category">
           <Route index exact element={<Category />} />
           <Route path={`/category/:categoryName`}>
-            <Route index exact element={<Course />} />
+            <Route index exact element={<CategoryDetail />} />
             <Route
               path={`/category/:categoryName/:courseId`}
               element={<CourseDetail />}
@@ -32,10 +24,8 @@ function App() {
           </Route>
         </Route>
       </Routes>
-      {/* <RouterProvider router={router} /> */}
       <Footer />
     </div>
-    // <RouterProvider router={router} />
   );
 }
 
