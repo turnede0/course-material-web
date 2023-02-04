@@ -11,8 +11,8 @@ function CourseDetail() {
     (item) => item.category === categoryName
   )[0].courses.filter((item) => item.courseID === courseId)[0];
 
-  console.log("alex courseId=", courseId);
-  console.log("alex content=", Course);
+  // console.log("alex courseId=", courseId);
+  // console.log("alex content=", Course);
 
   return (
     <div>

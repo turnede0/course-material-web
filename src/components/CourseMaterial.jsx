@@ -1,7 +1,7 @@
 import React from "react";
 
 const CourseMaterial = (resources) => {
-  console.log("alex res=", resources);
+  // console.log("alex res=", resources);
   return (
     <div className="flex flex-col">
       <div className="overflow-x-auto ">
