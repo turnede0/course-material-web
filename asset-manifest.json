@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/course-material-web/static/css/main.94851a9b.css",
-    "main.js": "/course-material-web/static/js/main.c93ad0b9.js",
+    "main.css": "/course-material-web/static/css/main.3b4786d2.css",
+    "main.js": "/course-material-web/static/js/main.5ebc2c8d.js",
     "static/media/laptop.jpg": "/course-material-web/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "static/media/single.png": "/course-material-web/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/course-material-web/static/media/double.8be045e6bb88be63d414.png",
     "static/media/triple.png": "/course-material-web/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/course-material-web/index.html",
-    "main.94851a9b.css.map": "/course-material-web/static/css/main.94851a9b.css.map",
-    "main.c93ad0b9.js.map": "/course-material-web/static/js/main.c93ad0b9.js.map"
+    "main.3b4786d2.css.map": "/course-material-web/static/css/main.3b4786d2.css.map",
+    "main.5ebc2c8d.js.map": "/course-material-web/static/js/main.5ebc2c8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.94851a9b.css",
-    "static/js/main.c93ad0b9.js"
+    "static/css/main.3b4786d2.css",
+    "static/js/main.5ebc2c8d.js"
   ]
 }
