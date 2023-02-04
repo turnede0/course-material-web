@@ -10,7 +10,7 @@ export const CourseInfo = [
         description:
           "從零開始的印刷電路板設計入門之旅！手把手教程學習如何設計原理圖及佈板。制造属於您的第一塊電板！",
         category: "Hardware",
-        image: "",
+        image: "https://mdbootstrap.com/img/new/standard/nature/182.jpg",
         downloadUrl:
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
@@ -52,7 +52,7 @@ export const CourseInfo = [
         description:
           "世上電子元件多不勝數，如何選適合的元件由理解原理及閱讀數據手册開始。透過分析和建立各種電路，成為精明的微電子工程師！",
         category: "Hardware",
-        image: "",
+        image: "https://mdbootstrap.com/img/new/standard/nature/182.jpg",
         resources: [
           {
             topic: "",
@@ -72,7 +72,7 @@ export const CourseInfo = [
         description:
           "工欲善其事，必先利其器，安全第一。為工程師做任何工作時的兩個首要考慮。如何選正確的工具及用安全方式操作，會在這單元一目了然！",
         category: "Hardware",
-        image: "",
+        image: "https://mdbootstrap.com/img/new/standard/nature/182.jpg",
         resources: [
           {
             topic: "",
@@ -99,7 +99,7 @@ export const CourseInfo = [
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum molestiae delectus culpa hic assumenda, voluptate reprehenderit dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit, eveniet ex deserunt fuga?",
         category: "web",
-        image: "",
+        image: "https://mdbootstrap.com/img/new/standard/nature/182.jpg",
         resources: [
           {
             topic: "",
@@ -119,7 +119,7 @@ export const CourseInfo = [
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum molestiae delectus culpa hic assumenda, voluptate reprehenderit dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit, eveniet ex deserunt fuga?",
         category: "web",
-        image: "",
+        image: "https://mdbootstrap.com/img/new/standard/nature/182.jpg",
         resources: [
           {
             topic: "",
