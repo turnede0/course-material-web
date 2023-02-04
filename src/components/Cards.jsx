@@ -12,7 +12,7 @@ const Cards = () => {
     (item) => item.category === categoryName
   )[0];
   return (
-    <div className="w-full py-[10rem] px-4 bg-white">
+    <div className="w-full py-[3rem] px-4 bg-white">
       <div className="max-w-[800px] w-full h-[200px] mx-auto text-center flex flex-col justify-center">
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
           Course

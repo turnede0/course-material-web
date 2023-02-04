@@ -9,8 +9,6 @@ function CategoryDetail() {
   const Category = CourseInfo.filter(
     (item) => item.category === categoryName
   )[0];
-  console.log("alex Category=", Category.category);
-
   return (
     <div>
       <CategoryContent

@@ -20,27 +20,27 @@ export const CourseInfo = [
               "https://stemturnede.sharepoint.com/:b:/g/EUX6RkqsbTNJh0jcvj3IJLMBF-cIp_6MVa3ZavJYlk-1Ag?e=8fG1I0",
           },
           {
-            topic: "Lesson02 電路設計101"
+            topic: "Lesson02 電路設計101",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EgDY4pRh1cdCrrL7sO5sxnQBe-aWRT8KO9MFDA-3-x2ETg?e=1eTL8m",
           },
-		  {
-            topic: "Lesson03 認識LED閃爍電路"
+          {
+            topic: "Lesson03 認識LED閃爍電路",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EshCxudHBVdDuHaimyeds8ABBu4FmWBXHPiRjYAJg3PrSw?e=N1bcuC",
           },
-		  {
-            topic: "Lesson04 如何選擇電池？"
+          {
+            topic: "Lesson04 如何選擇電池？",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Evc3Qa8hpd9JsKE_7FFFlAEBYbsUwm9jQ8MGyq--pRxzIw?e=kXD1y0",
           },
-		  {
-            topic: "Lesson05 電子復活蛋"
+          {
+            topic: "Lesson05 電子復活蛋",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EszJgLxwUFtNh0xwV7Ns2HkBp49usNgtbc3EqsdzUNanCw?e=VMLFU7",
           },
-		  {
-            topic: "Lesson06 設計無綫LED"
+          {
+            topic: "Lesson06 設計無綫LED",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Eng6dkrqdzVJklD6A8--CA0BPX8l5kKkZuNB_MyPEdDExg?e=4kxhHA",
           },
