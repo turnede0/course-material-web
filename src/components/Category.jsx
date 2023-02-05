@@ -23,7 +23,7 @@ const Category = (ref) => {
                   key={index}
                 >
                   {categoryitem.isActive ? (
-                    <Link to={"/category/" + categoryitem.categoryName}>
+                    <Link to={"/category/" + categoryitem.categoryID}>
                       <div className="absolute h-full w-full flex justify-center items-center">
                         <h4 className="inline-block text-[#ffff] text-2xl">
                           {categoryitem.categoryName}

@@ -5,9 +5,9 @@ import { useParams } from "react-router-dom";
 import { CourseInfo } from "../assets/course/CourseInfo";
 
 function CategoryDetail() {
-  const { categoryName } = useParams();
+  const { categoryID } = useParams();
   const Category = CourseInfo.filter(
-    (item) => item.category === categoryName
+    (item) => item.categoryID === categoryID
   )[0];
   return (
     <div>

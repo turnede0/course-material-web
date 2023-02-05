@@ -15,10 +15,10 @@ function App() {
         <Route path="/" element={<Home />}></Route>
         <Route path="/category">
           <Route index exact element={<Category />} />
-          <Route path={`/category/:categoryName`}>
+          <Route path={`/category/:categoryID`}>
             <Route index exact element={<CategoryDetail />} />
             <Route
-              path={`/category/:categoryName/:courseId`}
+              path={`/category/:categoryID/:courseId`}
               element={<CourseDetail />}
             />
           </Route>

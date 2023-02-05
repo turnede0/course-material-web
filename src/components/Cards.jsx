@@ -7,9 +7,9 @@ import { Link } from "react-router-dom";
 import { useParams } from "react-router-dom";
 
 const Cards = () => {
-  const { categoryName } = useParams();
+  const { categoryID } = useParams();
   const category = CourseInfo.filter(
-    (item) => item.category === categoryName
+    (item) => item.categoryID === categoryID
   )[0];
   return (
     <div className="w-full py-[3rem] px-4 bg-white">
@@ -47,7 +47,7 @@ const Cards = () => {
                     <Link
                       to={
                         "/category/" +
-                        courseitem.category +
+                        courseitem.categoryID +
                         "/" +
                         courseitem.courseID
                       }

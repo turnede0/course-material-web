@@ -1,6 +1,6 @@
 export const CourseInfo = [
   {
-    category: "Hardware",
+    categoryID: "hardware",
     categoryDescription:
       "無論是顯示器，平板電腦還是智能手機，都是硬件。 我們社會所有現有技術的皆由硬件支撐。 通過物理和電子知識的各種組合，我們可以創造出從日常生活、科學研究、能量采集到硬件加速等任何方面來幫助人類的設備",
     courses: [
@@ -9,7 +9,7 @@ export const CourseInfo = [
         courseID: "PCB001",
         description:
           "從零開始的印刷電路板設計入門之旅！手把手教程學習如何設計原理圖及佈板。制造属於您的第一塊電板！",
-        category: "Hardware",
+        categoryID: "hardware",
         image:
           "https://i.imgur.com/g6zJVtg_d.webp?maxwidth=1520&fidelity=grand",
         downloadUrl:
@@ -52,17 +52,17 @@ export const CourseInfo = [
         courseID: "PCB002",
         description:
           "世上電子元件多不勝數，如何選適合的元件由理解原理及閱讀數據手册開始。透過分析和建立各種電路，成為精明的微電子工程師！",
-        category: "Hardware",
+        categoryID: "hardware",
         image:
           "https://i.imgur.com/bHnry7v_d.webp?maxwidth=1520&fidelity=grand",
         resources: [],
       },
       {
         courseName: "工具/儀器/安全護具教學",
-        courseID: "pcb003",
+        courseID: "PCB003",
         description:
           "工欲善其事，必先利其器，安全第一。為工程師做任何工作時的兩個首要考慮。如何選正確的工具及用安全方式操作，會在這單元一目了然！",
-        category: "Hardware",
+        categoryID: "hardware",
         image:
           "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
         resources: [],

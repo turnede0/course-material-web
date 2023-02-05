@@ -6,9 +6,9 @@ import CourseContent from "../components/CourseContent";
 import CourseMaterial from "../components/CourseMaterial";
 
 function CourseDetail() {
-  const { categoryName, courseId } = useParams();
+  const { categoryID, courseId } = useParams();
   const Course = CourseInfo.filter(
-    (item) => item.category === categoryName
+    (item) => item.categoryID === categoryID
   )[0].courses.filter((item) => item.courseID === courseId)[0];
 
   // console.log("alex courseId=", courseId);
