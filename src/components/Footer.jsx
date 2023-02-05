@@ -5,7 +5,6 @@ import {
   FaInstagram,
   FaYoutube,
   FaLinkedin,
-
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -14,9 +13,9 @@ const Footer = () => {
       <div>
         <h1 className="w-full text-3xl font-bold text-[#00df9a]">TURNED-E!</h1>
         <p className="py-4">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit
-          ullam iste repellat consequatur libero reiciendis, blanditiis
-          accusantium.
+          TURNED-E! Education aims to provide high-quality STEAM education
+          services and solutions. We mainly offer tailormade STEAM course at all
+          education levels.
         </p>
         <div className="flex justify-between md:w-[75%] my-6">
           <a href="https://www.facebook.com/TURNEDEEDUCATION/">

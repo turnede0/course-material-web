@@ -32,7 +32,11 @@ const Cards = () => {
                   data-mdb-ripple="true"
                   data-mdb-ripple-color="light"
                 >
-                  <img className="rounded-t-lg" src={courseitem.image} alt="" />
+                  <img
+                    className="oveflow rounded-t-lg max-w-[384px] max-h-[256px]"
+                    src={courseitem.image}
+                    alt=""
+                  />
                 </a>
                 <div className="p-6">
                   <span>ID: {courseitem.courseID}</span>

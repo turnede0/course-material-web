@@ -9,7 +9,7 @@ export const CourseCategory = [
     categoryName: "web",
     imgUrl:
       "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp",
-    isActive: true,
+    isActive: false,
   },
   {
     categoryName: "software",
