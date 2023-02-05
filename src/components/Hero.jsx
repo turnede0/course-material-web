@@ -21,7 +21,7 @@ const Hero = () => {
           />
         </div>
         <p className="md:text-2xl text-xl font-bold text-gray-500">
-          Learning for a Lifetime online. at School. at work.
+          Learning for a Lifetime online. at School.at Home. at work.
         </p>
 
         <button
