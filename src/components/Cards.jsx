@@ -27,17 +27,11 @@ const Cards = () => {
               key={index}
             >
               <div className="rounded-lg shadow-lg bg-white max-w-sm">
-                <a
-                  href="#!"
-                  data-mdb-ripple="true"
-                  data-mdb-ripple-color="light"
-                >
-                  <img
-                    className="oveflow rounded-t-lg max-w-[384px] max-h-[256px]"
-                    src={courseitem.image}
-                    alt=""
-                  />
-                </a>
+                <img
+                  className="object-cover rounded-t-lg  w-[384px] h-[256px]"
+                  src={courseitem.image}
+                  alt=""
+                />
                 <div className="p-6">
                   <span>ID: {courseitem.courseID}</span>
                   <h5 className="text-gray-900 text-xl font-medium mb-2">

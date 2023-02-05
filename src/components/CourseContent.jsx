@@ -6,7 +6,7 @@ const CourseContent = (Course) => {
       <div className="w-full bg-white py-16 px-4">
         <div className="max-w-[1240px] mx-auto grid md:grid-cols-2">
           <img
-            className="w-[500px] mx-auto my-4 rounded-3xl"
+            className="mx-auto my-4 rounded-3xl object-cover w-[384px] h-[256px]"
             src={Course.Course.image}
             alt="/"
           />
