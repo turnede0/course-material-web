@@ -12,3 +12,4 @@ root.render(
     </HashRouter>
   </React.StrictMode>
 );
+// we are using Single page application - HashLocationStrategy .Therefore, /#/ is in url
