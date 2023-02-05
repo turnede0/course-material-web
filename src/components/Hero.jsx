@@ -25,7 +25,7 @@ const Hero = () => {
         </p>
 
         <button
-          className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black"
+          className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black hover:bg-[#ffff] hover:text-[#00df9a] "
           onClick={() => {
             const anchor = document.querySelector("#category");
             anchor.scrollIntoView({ behavior: "smooth", block: "center" });
