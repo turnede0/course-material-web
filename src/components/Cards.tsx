@@ -1,5 +1,5 @@
 import React from "react";
-import Single from "../assets/single.png";
+import { Single } from "../assets/single.png";
 import Double from "../assets/double.png";
 import Triple from "../assets/triple.png";
 import { CourseInfo } from "../assets/course/CourseInfo";
@@ -38,7 +38,7 @@ const Cards = () => {
                     {courseitem.courseName}
                   </h5>
                   <span className="inline-block py-1.5 px-2.5 leading-none text-center whitespace-nowrap align-baseline font-bold bg-[#00df9a] text-white rounded">
-                    {courseitem.category}
+                    {courseitem.categoryID}
                   </span>
                   <p className="text-gray-700 text-base mb-4">
                     {courseitem.description}

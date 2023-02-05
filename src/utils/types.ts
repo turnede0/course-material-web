@@ -1,19 +1,27 @@
 export type CoursesResourcesType = {
-  filename: string;
-  fileDownloadUrl: string;
+  topic: string;
+  downloadUrl: string;
 };
 
 export type CoursesType = {
   courseName: string;
   courseID: string;
   description: string;
-  category: string;
-  image: string;
-  downloadUrl: string;
-  resources: CoursesResourcesType[];
+  categoryID: string;
+  image?: string;
+  downloadUrl?: string;
+  resources?: CoursesResourcesType[];
 };
 
 export type CourseInfoType = {
-  category: string;
+  categoryID: string;
+  categoryDescription: string;
   courses: CoursesType[];
-};
+}[];
+
+export type CourseCategoryType = {
+  categoryID: string;
+  categoryName: string;
+  imgUrl: string;
+  isActive: boolean;
+}[];

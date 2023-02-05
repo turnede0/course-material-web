@@ -2,7 +2,7 @@ import React from "react";
 import { CourseCategory } from "../assets/course/CourseCategory";
 import { Link } from "react-router-dom";
 
-const Category = (ref) => {
+const Category = () => {
   return (
     <div className="w-full h-full py-[3rem] px-4 bg-white">
       <div className="max-w-[800px] w-full h-[200px] mx-auto text-center flex flex-col justify-center">

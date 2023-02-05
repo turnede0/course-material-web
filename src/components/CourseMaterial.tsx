@@ -1,6 +1,11 @@
 import React from "react";
+import { CoursesResourcesType } from "../utils/types";
 
-const CourseMaterial = (resources) => {
+const CourseMaterial = ({
+  resources,
+}: {
+  resources: CoursesResourcesType[] | undefined;
+}) => {
   // console.log("alex res=", resources);
   return (
     <div className="flex flex-col">
@@ -31,7 +36,7 @@ const CourseMaterial = (resources) => {
                 </tr>
               </thead>
               <tbody>
-                {resources.resources.map((item, index) => (
+                {resources?.map((item, index) => (
                   <tr
                     className="bg-white border-b transition duration-300 ease-in-out hover:bg-gray-100"
                     key={index}

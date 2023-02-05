@@ -12,7 +12,7 @@ function CategoryDetail() {
   return (
     <div>
       <CategoryContent
-        title={Category.category}
+        title={Category.categoryID}
         description={Category.categoryDescription}
       />
       <Cards />

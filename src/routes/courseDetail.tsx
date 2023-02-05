@@ -4,10 +4,11 @@ import { useParams } from "react-router";
 import { CourseInfo } from "../assets/course/CourseInfo";
 import CourseContent from "../components/CourseContent";
 import CourseMaterial from "../components/CourseMaterial";
+import { CoursesType } from "../utils/types";
 
 function CourseDetail() {
   const { categoryID, courseId } = useParams();
-  const Course = CourseInfo.filter(
+  const Course: CoursesType = CourseInfo.filter(
     (item) => item.categoryID === categoryID
   )[0].courses.filter((item) => item.courseID === courseId)[0];
 

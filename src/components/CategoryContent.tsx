@@ -3,7 +3,13 @@ import Laptop from "../assets/laptop.jpg";
 import { useParams } from "react-router-dom";
 import { CourseInfo } from "../assets/course/CourseInfo";
 
-const CategoryContent = ({ title, description }) => {
+const CategoryContent = ({
+  title,
+  description,
+}: {
+  title: string;
+  description: string;
+}) => {
   return (
     <div className="w-full bg-white py-16 px-4">
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2">

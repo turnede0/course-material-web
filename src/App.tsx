@@ -7,16 +7,16 @@ import CategoryDetail from "./routes/categoryDetail";
 import CourseDetail from "./routes/courseDetail";
 import Category from "./components/Category";
 
-function App() {
+const App = () => {
   return (
     <div>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/category">
-          <Route index exact element={<Category />} />
+          <Route index element={<Category />} />
           <Route path={`/category/:categoryID`}>
-            <Route index exact element={<CategoryDetail />} />
+            <Route index element={<CategoryDetail />} />
             <Route
               path={`/category/:categoryID/:courseId`}
               element={<CourseDetail />}
@@ -27,6 +27,6 @@ function App() {
       <Footer />
     </div>
   );
-}
+};
 
 export default App;

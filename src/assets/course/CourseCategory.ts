@@ -1,4 +1,6 @@
-export const CourseCategory = [
+import { CourseCategoryType } from "../../utils/types";
+
+export const CourseCategory: CourseCategoryType = [
   {
     categoryID: "hardware",
     categoryName: "Hardware",
