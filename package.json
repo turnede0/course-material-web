@@ -11,6 +11,10 @@
     "@types/node": "^18.11.19",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
+    "@typescript-eslint/eslint-plugin": "^5.50.0",
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-react-app": "^7.0.1",
     "gh-pages": "^5.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -19,7 +23,6 @@
     "react-scripts": "5.0.1",
     "react-typed": "^1.2.0",
     "ts-loader": "^9.4.2",
-    "tw-elements": "^1.0.0-alpha13",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.0",
     "webpack": "^5.75.0"
@@ -30,7 +33,13 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prepare": "husky install",
+    "check-types": "tsc --pretty --noEmit",
+    "check-format": "prettier --check .",
+    "check-lint": "eslint . --ext ts --ext tsx --ext js",
+    "format": "prettier --write .",
+    "check-all": "yarn check-format && yarn check-types"
   },
   "eslintConfig": {
     "extends": [
@@ -52,7 +61,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
+    "husky": "^8.0.0",
     "postcss": "^8.4.12",
+    "prettier": "^2.8.3",
     "tailwindcss": "^3.0.24",
     "webpack-cli": "^5.0.1"
   }
