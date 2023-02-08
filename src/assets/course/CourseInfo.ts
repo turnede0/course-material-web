@@ -56,7 +56,13 @@ export const CourseInfo: CourseInfoType = [
         categoryID: "hardware",
         image:
           "https://i.imgur.com/bHnry7v_d.webp?maxwidth=1520&fidelity=grand",
-        resources: [],
+        resources: [
+        {
+          topic: "SMT焊接練習",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EnRHUHQZGMBAgdQyuR8sQm0BE-IjqEVWt5AaXrSVje3dgw?e=3Q8Bni0",
+        },
+      ],
       },
       {
         courseName: "工具/儀器/安全護具教學",
