@@ -24,7 +24,7 @@ const Navbar = () => {
         <Link to="https://stemturnede.sharepoint.com/sites/info.public.turned-e/SitePages/Home.aspx">
           <li className="p-4">Resources</li>
         </Link>
-        <Link to="https://www.turned-e.com/talent">
+        <Link to="https://www.turned-e.com/about-us">
           <li className="p-4">About Us</li>
         </Link>
         <Link to="https://api.whatsapp.com/message/TEG254CZMTKND1?autoload=1&app_absent=0">
@@ -58,7 +58,7 @@ const Navbar = () => {
         <Link to="https://stemturnede.sharepoint.com/sites/info.public.turned-e/SitePages/Home.aspx">
           <li className="p-4 border-b border-gray-600">Resources</li>
         </Link>
-        <Link to="https://www.turned-e.com/talent">
+        <Link to="https://www.turned-e.com/about-us">
           <div>
             <li className="p-4 border-b border-gray-600">About Us</li>
           </div>
