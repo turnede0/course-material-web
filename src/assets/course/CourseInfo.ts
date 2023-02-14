@@ -90,7 +90,7 @@ export const CourseInfo: CourseInfoType = [
         image:
           "https://i.imgur.com/g6zJVtg_d.webp?maxwidth=1520&fidelity=grand",
         downloadUrl:
-          "bit.ly/3XoKbDE",
+        "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
           {
             topic: "雪花燈PCB焊接",
