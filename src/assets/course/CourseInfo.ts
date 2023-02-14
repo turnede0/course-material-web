@@ -86,7 +86,7 @@ export const CourseInfo: CourseInfoType = [
         courseID: "Workshop001",
         description:
           "雪花燈PCB焊接X機械人建設體驗",
-        categoryID: "hardware",
+        categoryID: "omron",
         image:
           "https://i.imgur.com/g6zJVtg_d.webp?maxwidth=1520&fidelity=grand",
         downloadUrl:
