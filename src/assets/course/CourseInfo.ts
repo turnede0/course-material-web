@@ -100,7 +100,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "機械人建設體驗",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/EgDY4pRh1cdCrrL7sO5sxnQBe-aWRT8KO9MFDA-3-x2ETg?e=1eTL8m",
+              "https://stemturnede.sharepoint.com/:f:/g/Ehf4Ikh1odNIniONauGLipgBpTJJOMO9pPDX8rfccziOiw?e=kt5A76",
           },
           
         ],
