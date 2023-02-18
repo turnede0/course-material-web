@@ -78,19 +78,17 @@ export const CourseInfo: CourseInfoType = [
   },
   {
     categoryID: "omron",
-    categoryDescription:
-      "雪花燈PCB焊接X機械人建設體驗",
+    categoryDescription: "雪花燈PCB焊接X機械人建設體驗",
     courses: [
       {
         courseName: "Omron Team Building",
         courseID: "Workshop001",
-        description:
-          "雪花燈PCB焊接X機械人建設體驗",
+        description: "雪花燈PCB焊接X機械人建設體驗",
         categoryID: "omron",
         image:
           "https://i.imgur.com/g6zJVtg_d.webp?maxwidth=1520&fidelity=grand",
         downloadUrl:
-        "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
           {
             topic: "雪花燈PCB焊接",
@@ -102,7 +100,6 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Ehf4Ikh1odNIniONauGLipgBpTJJOMO9pPDX8rfccziOiw?e=kt5A76",
           },
-          
         ],
       },
     ],
