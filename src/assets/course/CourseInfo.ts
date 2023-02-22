@@ -62,6 +62,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EnRHUHQZGMBAgdQyuR8sQm0BE-IjqEVWt5AaXrSVje3dgw?e=3Q8Bni0",
           },
+          {
+            topic: "脈寬調變與伺服電機",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Eoo-jzOrvcVEuCnweKYAM10BAkErcDF7wpEJ_b-yQCI01g?e=yc1OBQ",
+          },
         ],
       },
       {
