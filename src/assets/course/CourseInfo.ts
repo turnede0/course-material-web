@@ -67,6 +67,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Eoo-jzOrvcVEuCnweKYAM10BAkErcDF7wpEJ_b-yQCI01g?e=yc1OBQ",
           },
+          {
+            topic: "PCB作品：個人名片",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EpYEVV0EzS9Fu4r9zwxiQiIBTjfWvC2VyWsjf2agD5Rj3Q?e=Yn6qBL",
+          },
         ],
       },
       {
