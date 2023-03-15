@@ -72,6 +72,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EpYEVV0EzS9Fu4r9zwxiQiIBTjfWvC2VyWsjf2agD5Rj3Q?e=Yn6qBL",
           },
+          {
+            topic: "MP3 播放器",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EtSd0UZPy_tDpmgLMdN8iBQBBUPki_CrC3wanFMl-5ajLQ?e=Q43VE6",
+          },
         ],
       },
       {
