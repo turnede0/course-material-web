@@ -89,6 +89,22 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
         resources: [],
       },
+      {
+        courseName: "FPGA",
+        courseID: "FPGA",
+        description:
+          "工欲善其事，必先利其器，安全第一。為工程師做任何工作時的兩個首要考慮。如何選正確的工具及用安全方式操作，會在這單元一目了然！",
+        categoryID: "hardware",
+        image:
+          "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
+        resources: [
+          {
+            topic: "SMT焊接練習",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/ErreMwHcNNFBqaUMC_CkwfoBoSdOHUGyO5NgvckfclkyJw?e=fxx8sO",
+          },
+        ],
+      },
     ],
   },
   {
