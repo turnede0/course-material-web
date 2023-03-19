@@ -47,12 +47,12 @@ const Navbar = () => {
           </h1>
         </Link>
 
-        <Link to="/">
+        <Link to="/" onClick={handleNav}>
           <div>
             <li className="p-4 border-b border-gray-600">Home</li>
           </div>
         </Link>
-        <Link to="/category">
+        <Link to="/category" onClick={handleNav}>
           <li className="p-4 border-b border-gray-600">Course</li>
         </Link>
         <Link to="https://stemturnede.sharepoint.com/sites/info.public.turned-e/SitePages/Home.aspx">
