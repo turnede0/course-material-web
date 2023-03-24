@@ -143,7 +143,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "Software and Driver download",
         courseID: "SD001",
         description: "Software_Driver",
-        categoryID: "omron",
+        categoryID: "Software_Driver",
         image:
           "https://i.imgur.com/VbRhuUb.jpeg",
         downloadUrl:
