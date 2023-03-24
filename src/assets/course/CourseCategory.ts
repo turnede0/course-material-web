@@ -23,11 +23,11 @@ export const CourseCategory: CourseCategoryType = [
     isActive: false,
   },
   {
-    categoryID: "science",
-    categoryName: "Science",
+    categoryID: "Software_Driver",
+    categoryName: "Software&river",
     imgUrl:
       "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp",
-    isActive: false,
+    isActive: true,
   },
   {
     categoryID: "fpga",
