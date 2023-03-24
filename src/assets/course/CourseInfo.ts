@@ -135,4 +135,32 @@ export const CourseInfo: CourseInfoType = [
       },
     ],
   },
+  {
+    categoryID: "Software_Driver",
+    categoryDescription: "Software_Driver",
+    courses: [
+      {
+        courseName: "Software and Driver download",
+        courseID: "SD001",
+        description: "Software_Driver",
+        categoryID: "omron",
+        image:
+          "https://i.imgur.com/VbRhuUb.jpeg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "CH340_Driver",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Et31Os9OWVtPtCfXBI7xNLoBDBDwS54WX4Wt-5ygcswKlg?e=lL7kCM",
+          },
+          {
+            topic: "CP2102_Driver",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EjfxawEHArBCse8LybogZuYBnfs-UoHICpjWIeX0JhgZQQ?e=l2oNdW",
+          },
+        ],
+      },
+    ],
+  },
 ];
