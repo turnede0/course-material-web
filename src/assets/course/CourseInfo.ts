@@ -137,12 +137,12 @@ export const CourseInfo: CourseInfoType = [
   },
   {
     categoryID: "Software_Driver",
-    categoryDescription: "Software_Driver",
+    categoryDescription: "Software Driver download",
     courses: [
       {
         courseName: "Software and Driver download",
         courseID: "SD001",
-        description: "Software_Driver",
+        description: "Software Driver download",
         categoryID: "Software_Driver",
         image:
           "https://i.imgur.com/VbRhuUb.jpeg",
