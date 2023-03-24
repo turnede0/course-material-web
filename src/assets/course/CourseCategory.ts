@@ -24,7 +24,7 @@ export const CourseCategory: CourseCategoryType = [
   },
   {
     categoryID: "Software_Driver",
-    categoryName: "Software&river",
+    categoryName: "Software & Driver",
     imgUrl:
       "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp",
     isActive: true,
