@@ -77,6 +77,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EtSd0UZPy_tDpmgLMdN8iBQBBUPki_CrC3wanFMl-5ajLQ?e=Q43VE6",
           },
+          {
+            topic: "NFC 個人名片焊接和設置",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EjHiL4uVIQBEolvhdWWeEeABRfBs_8NiwXwgN5mVWS6_-g?e=sEHNzc",
+          },
         ],
       },
       {
