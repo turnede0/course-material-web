@@ -46,6 +46,16 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Eng6dkrqdzVJklD6A8--CA0BPX8l5kKkZuNB_MyPEdDExg?e=4kxhHA",
           },
+          {
+            topic: "Lesson 07 如何製作MP3播放器",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EoVn7l6LrOVAv3EUX3dy9NcBtIY6rwR2VfmoIv0u0z-aRw?e=z0fRZw",
+          },
+          {
+            topic: "Lesson 08 如何燒錄語音芯片",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/El2hb725KOJMvCLvhDCiYMEBa9keUEbozXVP_1TuEPQdIQ?e=fCnpIu",
+          },
         ],
       },
       {
