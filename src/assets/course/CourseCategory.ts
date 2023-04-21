@@ -9,8 +9,8 @@ export const CourseCategory: CourseCategoryType = [
     isActive: true,
   },
   {
-    categoryID: "omron",
-    categoryName: "omron",
+    categoryID: "PCB Competition",
+    categoryName: "PCB Competition",
     imgUrl:
       "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp",
     isActive: true,
