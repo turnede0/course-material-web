@@ -151,6 +151,34 @@ export const CourseInfo: CourseInfoType = [
     ],
   },
   {
+    categoryID: "PCB Competition",
+    categoryDescription: "Semtron PCB Competition 2023",
+    courses: [
+      {
+        courseName: "Semtron PCB Competition",
+        courseID: "SPC2023",
+        description: "Semtron PCB Competition 2023",
+        categoryID: "PCB Competition",
+        image:
+          "https://i.imgur.com/g6zJVtg_d.webp?maxwidth=1520&fidelity=grand",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "比賽工作坊",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EkM0NVWQYFBItvjXv6wuSgUBGK6kZtXh5IGdSF4ZaFCJtQ?e=OmevGW",
+          },
+          {
+            topic: "工具教學及設計Tips",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ehf4Ikh1odNIniONauGLipgBpTJJOMO9pPDX8rfccziOiw?e=kt5A76",
+          },
+        ],
+      },
+    ],
+  },
+  {
     categoryID: "Software_Driver",
     categoryDescription: "Software Driver download",
     courses: [
