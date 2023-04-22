@@ -172,7 +172,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "工具教學及設計Tips",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/Ehf4Ikh1odNIniONauGLipgBpTJJOMO9pPDX8rfccziOiw?e=kt5A76",
+              "https://stemturnede.sharepoint.com/:f:/g/EqU05ASNB2pMqg9BlhT6JV0BC1_T37qLaOd6GBOP9p2wMQ?e=X7jZEU",
           },
         ],
       },
