@@ -92,6 +92,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EjHiL4uVIQBEolvhdWWeEeABRfBs_8NiwXwgN5mVWS6_-g?e=sEHNzc",
           },
+          {
+            topic: "ESP32",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EvgA_tMyWDFJkuQJsW9XkgQBISdGukKLBvT-yPqL0GIGWw?e=vQWWMr",
+          },
         ],
       },
       {
