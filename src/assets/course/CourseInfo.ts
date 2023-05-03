@@ -98,7 +98,7 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/g/EvgA_tMyWDFJkuQJsW9XkgQBISdGukKLBvT-yPqL0GIGWw?e=vQWWMr",
           },
           {
-            topic: "ESP32 & dht11",
+            topic: "MQTT與傳感器",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EvoHgTfx765KsqEm6R_kgG0Bo3NuUcaoSz1mKOuJM0FQkA?e=nkwidR",
           },
