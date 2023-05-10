@@ -102,6 +102,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EvoHgTfx765KsqEm6R_kgG0Bo3NuUcaoSz1mKOuJM0FQkA?e=nkwidR",
           },
+          {
+            topic: "ESP32 PCB繪製",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EmE9pMnPe_FFrJAu9WEkYWgBGKE1uR1B150Dyw7hw2mvSQ?e=ezmhP2",
+          },
         ],
       },
       {
