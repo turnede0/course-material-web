@@ -107,6 +107,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EmE9pMnPe_FFrJAu9WEkYWgBGKE1uR1B150Dyw7hw2mvSQ?e=ezmhP2",
           },
+          {
+            topic: "數據可視化",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/ElD3X2CUk9FMqDSQ9LkMi4gBawyISnorIcuWmD9SccH2FQ?e=ArZrX6",
+          },
         ],
       },
       {
