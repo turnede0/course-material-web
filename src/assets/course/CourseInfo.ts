@@ -194,6 +194,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EqU05ASNB2pMqg9BlhT6JV0BC1_T37qLaOd6GBOP9p2wMQ?e=X7jZEU",
           },
+          {
+            topic: "範例文件",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EgS0pIjpezpHjYZ3_LbB_QEBrOwnJumuW86NsRKLDUvR-w?e=Wdlg99",
+          },
         ],
       },
     ],
