@@ -236,4 +236,27 @@ export const CourseInfo: CourseInfoType = [
       },
     ],
   },
+  {
+    categoryID: "workshop",
+    categoryDescription: "ECE workshop 2023",
+    courses: [
+      {
+        courseName: "ECE workshop 2023",
+        courseID: "WS001",
+        description: "ECE workshop 2023",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "ECE workshop 2023",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EoqpZADnkn9IufEe9wI5YesBL6yqit7jtfuMxoFaLfWmPQ?e=8ahsr0",
+          },
+        ],
+      },
+    ],
+  },
 ];
