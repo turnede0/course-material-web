@@ -253,7 +253,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "ECE workshop 2023",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/EqNjN2zxcyBIjm0dEenkql8BxNbSyEFTd2XcOprt4A_Vxw?e=KmwVJC",
+              "https://stemturnede.sharepoint.com/:f:/g/EooUOfgPjb9MsbUX4odaMf8BFbGdk8yJgGJDkUo2oqPrHQ?e=uKTgMf",
           },
         ],
       },
