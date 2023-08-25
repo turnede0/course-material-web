@@ -24,7 +24,7 @@ const App = () => {
             />
           </Route>
         </Route>
-        <Route path={`/ict-award`} element={<ICTAwardDetail />} />
+        <Route path={`/semtron`} element={<ICTAwardDetail />} />
       </Routes>
       <Footer />
     </div>
