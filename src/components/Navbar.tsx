@@ -21,6 +21,9 @@ const Navbar = () => {
         <Link to="/category">
           <li className="p-4">Course</li>
         </Link>
+        <Link to="/ict-award">
+          <li className="p-4">ICT Award</li>
+        </Link>
         <Link to="https://stemturnede.sharepoint.com/sites/info.public.turned-e/SitePages/Home.aspx">
           <li className="p-4">Resources</li>
         </Link>

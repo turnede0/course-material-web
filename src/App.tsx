@@ -6,6 +6,7 @@ import Home from "./routes/home";
 import CategoryDetail from "./routes/categoryDetail";
 import CourseDetail from "./routes/courseDetail";
 import Category from "./components/Category";
+import ICTAwardDetail from "./routes/ICTAwardDetail";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
             />
           </Route>
         </Route>
+        <Route path={`/ict-award`} element={<ICTAwardDetail />} />
       </Routes>
       <Footer />
     </div>
