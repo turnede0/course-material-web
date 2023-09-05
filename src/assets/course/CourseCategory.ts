@@ -43,4 +43,25 @@ export const CourseCategory: CourseCategoryType = [
       "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(76).webp",
     isActive: false,
   },
+  {
+    categoryID: "art2",
+    categoryName: "Art2",
+    imgUrl:
+      "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(76).webp",
+    isActive: false,
+  },
+  {
+    categoryID: "art3",
+    categoryName: "Art3",
+    imgUrl:
+      "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(76).webp",
+    isActive: false,
+  },
+  {
+    categoryID: "art4",
+    categoryName: "Art4",
+    imgUrl:
+      "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(76).webp",
+    isActive: false,
+  },
 ];
