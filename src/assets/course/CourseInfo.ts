@@ -211,7 +211,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "Software and Driver download",
         courseID: "SD001",
         description: "Software Driver download",
-        categoryID: "Software_Driver",
+        categoryID: "software_Driver",
         image:
           "https://i.imgur.com/VbRhuUb.jpeg",
         downloadUrl:
