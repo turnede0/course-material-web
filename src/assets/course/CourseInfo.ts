@@ -187,7 +187,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "比賽工作坊",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/EkM0NVWQYFBItvjXv6wuSgUBGK6kZtXh5IGdSF4ZaFCJtQ?e=OmevGW",
+              "https://stemturnede.sharepoint.com/:f:/g/EkM0NVWQYFBItvjXv6wuSgUBGK6kZtXh5IGdSF4ZaFCJtQ?e=kvvLrR",
           },
           {
             topic: "工具教學及設計Tips",
