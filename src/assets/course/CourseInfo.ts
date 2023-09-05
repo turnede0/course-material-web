@@ -204,7 +204,7 @@ export const CourseInfo: CourseInfoType = [
     ],
   },
   {
-    categoryID: "Software_Driver",
+    categoryID: "software_Driver",
     categoryDescription: "Software Driver download",
     courses: [
       {
