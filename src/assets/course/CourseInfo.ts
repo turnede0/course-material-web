@@ -228,7 +228,7 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/g/EjfxawEHArBCse8LybogZuYBnfs-UoHICpjWIeX0JhgZQQ?e=l2oNdW",
           },
           {
-            topic: "VS Code & platformIO 安裝指引",
+            topic: "VS Code & PlatformIO 安裝指引",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Eow01cmp_vVHkCTe4JBEO8ABvdA_6U_q8-CEzAyLk6QPnQ?e=ovTIVo",
           },
