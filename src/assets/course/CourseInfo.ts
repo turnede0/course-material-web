@@ -250,7 +250,7 @@ export const CourseInfo: CourseInfoType = [
       {
         courseName: "Semtron FPGA 201",
         courseID: "SF201",
-        description: "Semtron FPGA 201",
+        description: "透過FPGA領略微電子芯片工程的知識與魅力,對微電子工程師這一職業產生更多認知與理解!有充分的動手機會進行電路設計及編程，成為小小微電子工程師！",
         categoryID: "fpga",
         image:
           "https://i.imgur.com/VbRhuUb.jpeg",
