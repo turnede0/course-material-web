@@ -124,22 +124,6 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
         resources: [],
       },
-      {
-        courseName: "FPGA",
-        courseID: "FPGA",
-        description:
-          "工欲善其事，必先利其器，安全第一。為工程師做任何工作時的兩個首要考慮。如何選正確的工具及用安全方式操作，會在這單元一目了然！",
-        categoryID: "hardware",
-        image:
-          "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
-        resources: [
-          {
-            topic: "SMT焊接練習",
-            downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/ErreMwHcNNFBqaUMC_CkwfoBoSdOHUGyO5NgvckfclkyJw?e=fxx8sO",
-          },
-        ],
-      },
     ],
   },
   {
@@ -254,6 +238,29 @@ export const CourseInfo: CourseInfoType = [
             topic: "ECE workshop 2023",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EooUOfgPjb9MsbUX4odaMf8BFbGdk8yJgGJDkUo2oqPrHQ?e=uKTgMf",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    categoryID: "fpga",
+    categoryDescription: "透過FPGA領略微電子芯片工程的知識與魅力,對微電子工程師這一職業產生更多認知與理解!有充分的動手機會進行電路設計及編程，成為小小微電子工程師！",
+    courses: [
+      {
+        courseName: "Semtron FPGA 201",
+        courseID: "SF201",
+        description: "Semtron FPGA 201",
+        categoryID: "fpga",
+        image:
+          "https://i.imgur.com/VbRhuUb.jpeg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "Lesson 1 芯片世界Hello World!",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ev8M6jsfocxFjl7Wlpy-D08BaVdtAcmWiNrdKzaKbnGMfw?e=8cMjsJ",
           },
         ],
       },
