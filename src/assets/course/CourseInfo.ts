@@ -262,6 +262,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Ev8M6jsfocxFjl7Wlpy-D08BaVdtAcmWiNrdKzaKbnGMfw?e=8cMjsJ",
           },
+          {
+            topic: "Lesson 2 基礎電子數位電路",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ela3a6ffo51Bi5WzYCjFPtgBIUQXiVBNa0sMi1AUpa7Zww?e=GtLz4C",
+          },
         ],
       },
     ],
