@@ -1,4 +1,4 @@
-import { CourseInfoType } from "../../utils/types";
+import type { CourseInfoType } from "../../utils/types";
 export const CourseInfo: CourseInfoType = [
   {
     categoryID: "hardware",
@@ -216,6 +216,13 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Eow01cmp_vVHkCTe4JBEO8ABvdA_6U_q8-CEzAyLk6QPnQ?e=ovTIVo",
           },
+          {
+            topic: "ICE Studio 安裝指引",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/ErShdo_s2KVClp_6WwsGHiIBKGbJvZRDIA7Ns0ENMhU9EA?e=XqHdBf",
+          },
+
+
         ],
       },
     ],
