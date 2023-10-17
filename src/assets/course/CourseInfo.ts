@@ -274,6 +274,12 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Ela3a6ffo51Bi5WzYCjFPtgBxhVhJylJEBU70d7WtUylig?e=221frm",
           },
+
+          {
+            topic: "Lesson 2 Logic Gates",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EgmOGwqybRNNl-gR7oPcBWEBlUcTPQ_xpSbYFtQWjz3MZg?e=QZApj2",
+          },
         ],
       },
     ],
