@@ -276,7 +276,7 @@ export const CourseInfo: CourseInfoType = [
           },
 
           {
-            topic: "Lesson 2 Logic Gates",
+            topic: "Lesson 3 Logic Gates",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EgmOGwqybRNNl-gR7oPcBWEBlUcTPQ_xpSbYFtQWjz3MZg?e=QZApj2",
           },
