@@ -280,6 +280,12 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EgmOGwqybRNNl-gR7oPcBWEBlUcTPQ_xpSbYFtQWjz3MZg?e=QZApj2",
           },
+
+          {
+            topic: "Lesson 4 Boolean Algebra",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EhQKsqg8nYJDgA9xhjIbZ_ABpUgTHrypxyeS7JqZ8d0DaA?e=d8xxZI",
+          },
         ],
       },
     ],
