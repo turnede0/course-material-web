@@ -286,6 +286,12 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EhQKsqg8nYJDgA9xhjIbZ_ABpUgTHrypxyeS7JqZ8d0DaA?e=d8xxZI",
           },
+
+          {
+            topic: "Lesson 5 Binary and Hexadecimal",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ejr-1Ewc_YdKpRwcOfOf_ZcBlwS2YzoVsz3ar_lzzxwgEQ?e=NMxn9M",
+          },
         ],
       },
     ],
