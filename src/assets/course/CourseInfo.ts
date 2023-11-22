@@ -292,6 +292,12 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Ejr-1Ewc_YdKpRwcOfOf_ZcBlwS2YzoVsz3ar_lzzxwgEQ?e=NMxn9M",
           },
+          {
+            topic: "Lesson 6 Signal and Clock",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EhtlQQ0QWJ9FiMYw7YTI_IEBxTNCU-K6cHFSPWrwldvLlA?e=YNacDS",
+          },
+          
         ],
       },
     ],
