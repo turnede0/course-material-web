@@ -297,6 +297,13 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EhtlQQ0QWJ9FiMYw7YTI_IEBxTNCU-K6cHFSPWrwldvLlA?e=YNacDS",
           },
+
+          {
+            topic: "Lesson 7 Flip Flop",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Eg8D_LzC0fhCkcX3PHGZhrMBiPW0etNfonlBIDLld_0bVQ?e=e8OFf4",
+          },
+
           
         ],
       },
