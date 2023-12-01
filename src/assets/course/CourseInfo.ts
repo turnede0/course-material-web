@@ -248,6 +248,24 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+
+      {
+        courseName: "ATS Openday 2023",
+        courseID: "WS001",
+        description: "ATS Openday 2023",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "ATS Openday 2023",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Es8p0YpEmkZGouEqHfrXT30BP92yKzaZvA4YJCAWaYl9QA?e=tbG9E0",
+          },
+        ],
+      },
     ],
   },
   {
