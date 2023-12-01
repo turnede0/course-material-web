@@ -251,7 +251,7 @@ export const CourseInfo: CourseInfoType = [
 
       {
         courseName: "ATS Openday 2023",
-        courseID: "WS001",
+        courseID: "WS002",
         description: "ATS Openday 2023",
         categoryID: "workshop",
         image:
