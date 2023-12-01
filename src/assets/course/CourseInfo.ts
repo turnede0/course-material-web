@@ -262,7 +262,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "ATS Openday 2023",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/Es8p0YpEmkZGouEqHfrXT30BP92yKzaZvA4YJCAWaYl9QA?e=tbG9E0",
+              "https://stemturnede.sharepoint.com/:f:/g/Es8p0YpEmkZGouEqHfrXT30BP92yKzaZvA4YJCAWaYl9QA?e=YiMUKA",
           },
         ],
       },
