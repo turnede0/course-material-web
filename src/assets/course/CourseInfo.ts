@@ -322,6 +322,12 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/g/Eg8D_LzC0fhCkcX3PHGZhrMBiPW0etNfonlBIDLld_0bVQ?e=e8OFf4",
           },
 
+          {
+            topic: "Lesson 8 MUX",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EvJtUJrSGMBPhs5-80pF3OABDMyev-FjwdrY6XqqQXzfyA?e=1yf0B8",
+          },
+
           
         ],
       },
