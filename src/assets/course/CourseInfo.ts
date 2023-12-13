@@ -328,6 +328,12 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/g/EvJtUJrSGMBPhs5-80pF3OABDMyev-FjwdrY6XqqQXzfyA?e=1yf0B8",
           },
 
+          {
+            topic: "Lesson 9 Bitstream",
+            downloadUrl:
+              " https://stemturnede.sharepoint.com/:f:/g/EuYe1JNG2xdPn1sU6VbSWgMBbCDm5pQ1kmDm0-6R3jHDjg?e=krk4Iy",
+          },
+         
           
         ],
       },
