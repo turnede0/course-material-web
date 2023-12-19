@@ -333,7 +333,12 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               " https://stemturnede.sharepoint.com/:f:/g/EuYe1JNG2xdPn1sU6VbSWgMBbCDm5pQ1kmDm0-6R3jHDjg?e=krk4Iy",
           },
-         
+
+          {
+            topic: "Lesson 10 Bitstream",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/ElLLDJWcjCREudpnQqkezAwBqUDb6tWrsNqjnlcNMz3-Ag?e=lYB1KP",
+          },
           
         ],
       },
