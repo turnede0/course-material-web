@@ -335,11 +335,15 @@ export const CourseInfo: CourseInfoType = [
           },
 
           {
-            topic: "Lesson 10 Bitstream",
+            topic: "Lesson 10 Revision",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/ElLLDJWcjCREudpnQqkezAwBqUDb6tWrsNqjnlcNMz3-Ag?e=lYB1KP",
           },
-          
+          {
+            topic: "Lesson 11 H-Bridge",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EsYitzKbEkZDotCA22nzjIkBLq1padcwok4Pj07GwgnHOg?e=nccLcR",
+          },
         ],
       },
     ],
