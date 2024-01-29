@@ -139,7 +139,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "Lesson01 PCB電路設計",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/Ek-Okwi_ioNDn80JFuMwm1YBG5VO34IyptJrKp0fODuZOw?e=bArToF",
+              "https://stemturnede.sharepoint.com/:f:/g/Ek-Okwi_ioNDn80JFuMwm1YB9uX_hHJ1hQejkuBz4ZMS9A?e=KfsEXe",
           },
         ]
       },
@@ -362,6 +362,11 @@ export const CourseInfo: CourseInfoType = [
             topic: "Lesson 11 H-Bridge",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EsYitzKbEkZDotCA22nzjIkBLq1padcwok4Pj07GwgnHOg?e=nccLcR",
+          },
+          {
+            topic: "Lesson 12 Verilog",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/ElrO7SzvhoxMssyqRa3qYgUBx4nmEsS-2Lxtgr6JKUG1Sg?e=M3zw7i",
           },
         ],
       },
