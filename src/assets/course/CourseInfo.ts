@@ -124,6 +124,25 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
         resources: [],
       },
+
+      {
+        courseName: "PCB&AI",
+        courseID: "PCB004",
+        description:
+          "設計自己的電路板去整合傳感器AI芯片,通訊模組,並製作3D外殼以建立屬於自己的語音無線遙控器",
+        categoryID: "hardware",
+        image:
+          "https://i.imgur.com/g6zJVtg_d.webp?maxwidth=1520&fidelity=grand",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "Lesson01 PCB電路設計",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ek-Okwi_ioNDn80JFuMwm1YBG5VO34IyptJrKp0fODuZOw?e=bArToF",
+          },
+        ]
+      },
     ],
   },
   {
