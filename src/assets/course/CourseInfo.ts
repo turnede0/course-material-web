@@ -141,8 +141,15 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Ek-Okwi_ioNDn80JFuMwm1YB9uX_hHJ1hQejkuBz4ZMS9A?e=KfsEXe",
           },
+          {
+            topic: "Lesson02 PCB布版設計",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EtVNzsOQmM1OtstEbn__afEBi17YB0J94BqEZzsP87SWog?e=QVJJxq",
+          },
         ]
       },
+
+     
     ],
   },
   {
