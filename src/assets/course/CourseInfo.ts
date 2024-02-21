@@ -375,6 +375,12 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/ElrO7SzvhoxMssyqRa3qYgUBx4nmEsS-2Lxtgr6JKUG1Sg?e=M3zw7i",
           },
+          {
+            topic: "Lesson 13 PWM",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EnjOzkn2i_ZJlkdhHasI-jQBg3EvKf7BbK7pjqMwExKa1w?e=PhZDLY",
+          },
+
         ],
       },
     ],
