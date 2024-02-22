@@ -248,6 +248,11 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/g/ErShdo_s2KVClp_6WwsGHiIBKGbJvZRDIA7Ns0ENMhU9EA?e=XqHdBf",
           },
 
+          {
+            topic: "HLK Burn Tool",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Eq-jhl9eu3VEqGVUjpgLJicB07r9NYvOqbNLI2cT_n6ZFg?e=GUWpOW",
+          },
 
         ],
       },
