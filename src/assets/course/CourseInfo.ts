@@ -147,7 +147,7 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/g/EtVNzsOQmM1OtstEbn__afEBi17YB0J94BqEZzsP87SWog?e=QVJJxq",
           },
           {
-            topic: "Lesson02 語音AI",
+            topic: "Lesson03 語音AI",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Engs5lHUN8ZDk0gVbkrehNEBhZMI01qXtIZRiowaaIQ5gg?e=fAzd93",
           },
