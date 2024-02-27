@@ -151,7 +151,31 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Engs5lHUN8ZDk0gVbkrehNEBhZMI01qXtIZRiowaaIQ5gg?e=fAzd93",
           },
-          
+          {
+            topic: "Lesson04 設計思維與3D設計",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EuaQRDpVr_hHntqqamM9NVIBcE-pUXEfssif4cmusAn-bA?e=hmXEif",
+          },
+          {
+            topic: "Lesson05 焊接，組裝，設計(1)",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EgAUlb9KbjZCuIBgLRhVbL0Bw4b5Hzcu0Z0GjZ1kUz2Bgw?e=yLvZAu",
+          },
+          {
+            topic: "Lesson06 焊接，組裝，設計(2)",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EiZ5uDOZHh1AksNWNQk95F8B6FvoP9C8TDxmS5zHpkepqg?e=xrRPqQ",
+          },
+          {
+            topic: "Lesson7 賽前測試",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EuKPVazogatNiTk_ceZSwrABQ8xKY8AVJmNQXd0V5Jm68Q?e=xieZHR",
+          },
+          {
+            topic: "Lesson8 比賽環節",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Et1kP4cV25xIhhZDtDcY7yEBqTCqAC3g-3PfF3fBeaHkQA?e=rvLfUv",
+          },
         ]
       },
 
