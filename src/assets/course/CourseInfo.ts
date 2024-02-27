@@ -415,7 +415,41 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EnjOzkn2i_ZJlkdhHasI-jQBg3EvKf7BbK7pjqMwExKa1w?e=PhZDLY",
           },
-
+          {
+            topic: "Lesson 14 Sensor",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ena1GcPZq-hCumb6ldHzjXcB6A7xx9iHqVP-yTpr84LrtA?e=6dco4p",
+          },
+          {
+            topic: "Lesson 15 Line Track Car",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EjPh0_l41s1DpATTeLuqXGIB97VUBPAC5iml1_-EmYk_Vg?e=dsYdLp",
+          },
+          {
+            topic: "Lesson 16 AI Controller",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ejhj7S9AjnxFpMD_DZ7IV_MBjm1NP75B7j5KggL7ddpQcQ?e=Bj009F",
+          },
+          {
+            topic: "Lesson 17 Line Track Car",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Eoe4o1vdaplJsczd1yfbe5ABWx2Gn2kgz8rXT-ZSKArdvQ?e=yse3yD",
+          },
+          {
+            topic: "Lesson 18 Line Track Car",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Eg41lOaJryNLsc0aBBKttocBqLmT3FKNjIuDDPgU_AvyCQ?e=ccEwX3",
+          },
+          {
+            topic: "Lesson 19 Line Track Car",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EqlInIfCO_9InCRNRr0ThjwBozrwxOxhJQ-tRj38T4VjHA?e=9AzjxI",
+          },
+          {
+            topic: "Lesson 20 Line Track Car",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EkDGMSNZLfFOh0K0Ay8yCgsBIWFXmRia8fbirqOnW6Xlhw?e=ro4vQt",
+          },
         ],
       },
     ],
