@@ -290,12 +290,12 @@ export const CourseInfo: CourseInfoType = [
   },
   {
     categoryID: "workshop",
-    categoryDescription: "ECE workshop 2023",
+    categoryDescription: "ECE Workshop 2023",
     courses: [
       {
-        courseName: "ECE workshop 2023",
+        courseName: "ECE Workshop 2023",
         courseID: "WS001",
-        description: "ECE workshop 2023",
+        description: "ECE Workshop 2023",
         categoryID: "workshop",
         image:
           "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
@@ -303,7 +303,7 @@ export const CourseInfo: CourseInfoType = [
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
           {
-            topic: "ECE workshop 2023",
+            topic: "ECE Workshop 2023",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EooUOfgPjb9MsbUX4odaMf8BFbGdk8yJgGJDkUo2oqPrHQ?e=uKTgMf",
           },
@@ -327,6 +327,24 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "PCMS Workshop 2024",
+        courseID: "WS003",
+        description: "PCMS Workshop 2024",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "PCMS Workshop 2024",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EphaOUJb3JpGi5JZKZgB4yQB913kvarjTLHecHvsYWL2VA?e=jjBRHz",
+          },
+        ],
+      },
+
     ],
   },
   {
