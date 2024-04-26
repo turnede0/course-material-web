@@ -344,7 +344,23 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
-
+      {
+        courseName: "HCW Workshop 2024",
+        courseID: "HCW001",
+        description: "HCW Workshop 2024",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "HCW Workshop 2024",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:b:/g/EbT8TXTmrqlGizm_pf4fCWoBhwV_fnL0FMNxsoYCQiBQRw?e=p2pMrc",
+          },
+        ],
+      },
     ],
   },
   {
