@@ -178,7 +178,21 @@ export const CourseInfo: CourseInfoType = [
           },
         ]
       },
-
+      {
+        courseName: " NFC個人卡片,設計及焊接",
+        courseID: "PCB005",
+        description:
+          "由電子入門到設計自己的NFC卡片,用生動有趣的方式初次接觸微電子",
+        categoryID: "hardware",
+        image:
+          "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
+        resources: [          
+        {
+          topic: " NFC卡片設計",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EpL77KQSRaRMlLigd8kmAw4Bc9KvzYhlg6aslj1NoRNUpg?e=Bbn0xu",
+        },],
+      },
      
     ],
   },
