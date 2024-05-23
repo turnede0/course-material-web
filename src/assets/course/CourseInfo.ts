@@ -261,7 +261,7 @@ export const CourseInfo: CourseInfoType = [
         description: "Semtron PCB Competition 2024",
         categoryID: "PCB Competition",
         image:
-          "https://imgur.com/a/QCOKkDA",
+          "https://i.imgur.com/thSUKmD.png",
         downloadUrl:
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
