@@ -226,10 +226,10 @@ export const CourseInfo: CourseInfoType = [
   },
   {
     categoryID: "PCB Competition",
-    categoryDescription: "Semtron PCB Competition 2023",
+    categoryDescription: "Semtron PCB Competition",
     courses: [
       {
-        courseName: "Semtron PCB Competition",
+        courseName: "Semtron PCB Competition 2023",
         courseID: "SPC2023",
         description: "Semtron PCB Competition 2023",
         categoryID: "PCB Competition",
@@ -255,6 +255,23 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "Semtron PCB Competition 2024",
+        courseID: "SPC2024",
+        description: "Semtron PCB Competition 2024",
+        categoryID: "PCB Competition",
+        image:
+          "https://imgur.com/a/QCOKkDA",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "比賽工作坊",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EmzGHiXVG0NDnqr6_Wg2av8BWgA_DVEBdB98VJo_ybmeKw?e=x47HTJ",
+          },
+        ],
+      }
     ],
   },
   {
