@@ -268,7 +268,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "比賽工作坊",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/g/EmzGHiXVG0NDnqr6_Wg2av8BWgA_DVEBdB98VJo_ybmeKw?e=x47HTJ",
+              "https://stemturnede.sharepoint.com/:f:/g/EmzGHiXVG0NDnqr6_Wg2av8BtCOWNiJemZ1D1ys2TnWabQ?e=uZ82sz",
           },
         ],
       }
