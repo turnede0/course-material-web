@@ -404,7 +404,7 @@ export const CourseInfo: CourseInfoType = [
         description: "透過FPGA領略微電子芯片工程的知識與魅力,對微電子工程師這一職業產生更多認知與理解!有充分的動手機會進行電路設計及編程，成為小小微電子工程師！",
         categoryID: "fpga",
         image:
-          "https://i.imgur.com/thSUKmD.png",
+          "https://i.imgur.com/RG2ysBq.png",
         downloadUrl:
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
