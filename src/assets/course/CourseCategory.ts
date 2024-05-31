@@ -26,7 +26,7 @@ export const CourseCategory: CourseCategoryType = [
     categoryID: "software_Driver",
     categoryName: "Software & Driver",
     imgUrl:
-      "https://i.imgur.com/VG5hTlL.png",
+      "https://i.imgur.com/hhvQeXC.png",
     isActive: true,
   },
   {
