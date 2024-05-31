@@ -517,6 +517,22 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "Avnet",
+        courseID: "AMD001",
+        description: "課程致力於培育未來微電子及芯片人才，旨在讓香港中學生探索電子產品世界，發揮他們在AMD FPGA技術方面的創造力，並將STEM理論付諸實踐。鼓勵參與者利用AMD FPGA技術創建創新的電子產品和系統。通過參與這門課程，學生將學習如何使用AMD FPGA工具和開發平台，深入了解AMD FPGA技術的應用和未來趨勢。",
+        categoryID: "fpga",
+        image:
+          "https://i.imgur.com/VbRhuUb.jpeg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "Lesson 1 芯片及人工智能應用 - OpenCV 的界面設計教學",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Eo-jTBMDxyRAkhat0c6O68cBZDhgOUKEhZfBSpbvHGovkw?e=23EVpb",
+          },]
+      }
     ],
   },
 ];
