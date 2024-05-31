@@ -518,7 +518,7 @@ export const CourseInfo: CourseInfoType = [
         ],
       },
       {
-        courseName: "AMD X Avnet",
+        courseName: "AMD X Avnet Certificate Course",
         courseID: "AMD001",
         description: "課程致力於培育未來微電子及芯片人才，旨在讓香港中學生探索電子產品世界，發揮他們在AMD FPGA技術方面的創造力，並將STEM理論付諸實踐。鼓勵參與者利用AMD FPGA技術創建創新的電子產品和系統。通過參與這門課程，學生將學習如何使用AMD FPGA工具和開發平台，深入了解AMD FPGA技術的應用和未來趨勢。",
         categoryID: "fpga",
