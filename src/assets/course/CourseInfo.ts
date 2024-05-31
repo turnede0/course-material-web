@@ -132,7 +132,7 @@ export const CourseInfo: CourseInfoType = [
           "設計自己的電路板去整合傳感器AI芯片,通訊模組,並製作3D外殼以建立屬於自己的語音無線遙控器",
         categoryID: "hardware",
         image:
-          "https://i.imgur.com/g6zJVtg_d.webp?maxwidth=1520&fidelity=grand",
+          "https://i.imgur.com/RXXtKo4.png",
         downloadUrl:
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
@@ -185,7 +185,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的NFC卡片,用生動有趣的方式初次接觸微電子",
         categoryID: "hardware",
         image:
-          "https://i.imgur.com/FXxenv1_d.webp?maxwidth=1520&fidelity=grand",
+          "https://i.imgur.com/CNSWNHa.png",
         resources: [          
         {
           topic: " NFC卡片設計",
@@ -404,7 +404,7 @@ export const CourseInfo: CourseInfoType = [
         description: "透過FPGA領略微電子芯片工程的知識與魅力,對微電子工程師這一職業產生更多認知與理解!有充分的動手機會進行電路設計及編程，成為小小微電子工程師！",
         categoryID: "fpga",
         image:
-          "https://i.imgur.com/RG2ysBq.png",
+          "https://i.imgur.com/vtEaiqi.png",
         downloadUrl:
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
@@ -523,7 +523,7 @@ export const CourseInfo: CourseInfoType = [
         description: "課程致力於培育未來微電子及芯片人才，旨在讓香港中學生探索電子產品世界，發揮他們在AMD FPGA技術方面的創造力，並將STEM理論付諸實踐。鼓勵參與者利用AMD FPGA技術創建創新的電子產品和系統。通過參與這門課程，學生將學習如何使用AMD FPGA工具和開發平台，深入了解AMD FPGA技術的應用和未來趨勢。",
         categoryID: "fpga",
         image:
-          "https://imgur.com/G4Cogqz",
+          "https://i.imgur.com/RG2ysBq.png",
         downloadUrl:
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
