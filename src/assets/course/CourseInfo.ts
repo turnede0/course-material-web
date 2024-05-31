@@ -518,7 +518,7 @@ export const CourseInfo: CourseInfoType = [
         ],
       },
       {
-        courseName: "Avnet",
+        courseName: "AMD X Avnet",
         courseID: "AMD001",
         description: "課程致力於培育未來微電子及芯片人才，旨在讓香港中學生探索電子產品世界，發揮他們在AMD FPGA技術方面的創造力，並將STEM理論付諸實踐。鼓勵參與者利用AMD FPGA技術創建創新的電子產品和系統。通過參與這門課程，學生將學習如何使用AMD FPGA工具和開發平台，深入了解AMD FPGA技術的應用和未來趨勢。",
         categoryID: "fpga",
@@ -531,7 +531,28 @@ export const CourseInfo: CourseInfoType = [
             topic: "Lesson 1 芯片及人工智能應用 - OpenCV 的界面設計教學",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Eo-jTBMDxyRAkhat0c6O68cBZDhgOUKEhZfBSpbvHGovkw?e=23EVpb",
-          },]
+          },
+          {
+            topic: "Lesson 2 FPGA基礎培訓",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ej0D5N63o1BIoCyFS3CZR7QBLcBJown5OnqxARXPH4un9g?e=R8t6dU",
+          },
+          {
+            topic: "Lesson 3 Ultra96 PYNQ",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EqkpmSXk3nNBuLpXyCIWelQBhUNTjWlnIK7GLz3wH_eavw?e=qKAHiL",
+          },
+          {
+            topic: "Lesson 4 訓練和設計圖像識別AI模型",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ei5MkLd92V9Lnhauc5LnBaMBRDvlnPNMV8lN8ZmljuTPnA?e=QkVaFR",
+          },
+          {
+            topic: "Lesson 5 FPGA的計算機視覺應用",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EsEgzScuFJVNiBA8tSt6KQQBJYKd5K7_avcwFh8WpGt93w?e=XFpeYn",
+          },
+        ]
       }
     ],
   },
