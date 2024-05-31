@@ -33,7 +33,7 @@ export const CourseCategory: CourseCategoryType = [
     categoryID: "fpga",
     categoryName: "FPGA",
     imgUrl:
-      "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(75).webp",
+      "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(78).webp",
     isActive: true,
   },
   {
