@@ -179,7 +179,7 @@ export const CourseInfo: CourseInfoType = [
         ]
       },
       {
-        courseName: " NFC個人卡片,設計及焊接",
+        courseName: "NFC個人卡片,設計及焊接",
         courseID: "PCB005",
         description:
           "由電子入門到設計自己的NFC卡片,用生動有趣的方式初次接觸微電子",
@@ -193,7 +193,22 @@ export const CourseInfo: CourseInfoType = [
             "https://stemturnede.sharepoint.com/:f:/g/EpL77KQSRaRMlLigd8kmAw4Bc9KvzYhlg6aslj1NoRNUpg?e=Bbn0xu",
         },],
       },
-     
+      {
+        courseName: "MP3播放器",
+        courseID: "PCB006",
+        description:
+          "由電子入門到設計自己的MP3播放器,用生動有趣的方式初次接觸微電子",
+        categoryID: "hardware",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "MP3播放器",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/ErmQ3e-njB1Eueg8g7560xcBJyIUbYLn-OrVr562PwqoGg?e=dOQddM",
+        },],
+      },
+
     ],
   },
   {
