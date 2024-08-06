@@ -246,7 +246,7 @@ export const CourseInfo: CourseInfoType = [
       "無論是顯示器，平板電腦還是智能手機，都是硬件。 我們社會所有現有技術的皆由硬件支撐。 通過物理和電子知識的各種組合，我們可以創造出從日常生活、科學研究、能量采集到硬件加速等任何方面來幫助人類的設備",
     courses: [
       {
-        courseName: "NFC個人卡片,設計及焊接",
+        courseName: "NFC個人卡片",
         courseID: "PCB01.2",
         description:
           "由電子入門到設計自己的NFC卡片,用生動有趣的方式初次接觸微電子",
