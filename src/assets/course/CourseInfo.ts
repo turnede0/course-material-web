@@ -246,20 +246,67 @@ export const CourseInfo: CourseInfoType = [
       "無論是顯示器，平板電腦還是智能手機，都是硬件。 我們社會所有現有技術的皆由硬件支撐。 通過物理和電子知識的各種組合，我們可以創造出從日常生活、科學研究、能量采集到硬件加速等任何方面來幫助人類的設備",
     courses: [
       {
-        courseName: "NFC個人卡片",
-        courseID: "PCB01.2",
+        courseName: "EasyEDA 入門課程",
+        courseID: "PCB01",
         description:
-          "由電子入門到設計自己的NFC卡片,用生動有趣的方式初次接觸微電子",
+          "用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/CNSWNHa.png",
         resources: [          
         {
-          topic: " NFC卡片設計",
+          topic: "EasyEDA 入門課程",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/EpL77KQSRaRMlLigd8kmAw4Bc9KvzYhlg6aslj1NoRNUpg?e=Bbn0xu",
+            "https://stemturnede.sharepoint.com/:f:/g/EkS49Bp6E4hFp7OUgwtsN-YBjS80qS6N7H-UCX8FgI22Fg?e=KW1Hqe",
         },],
       },
+      {
+        courseName: "復活蛋閃爍電路",
+        courseID: "PCB01.1",
+        description:
+          "由電子入門到設計自己的復活蛋閃爍電路,用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "復活蛋閃爍電路",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EhzD71WnRTxMkibe57Ml7vUBRpgfwFESSaXo0xtxs3LvLw?e=sDtAI1",
+        },],
+      },
+
+      {
+        courseName: "NFC個人卡片",
+        courseID: "PCB01.2",
+        description:
+          "由電子入門到設計自己的NFC卡片, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "NFC卡片設計",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EpL77KQSRaRMlLigd8kmAw4BoNqe7rWm-aWzAljzQdvmOQ?e=4WNS50",
+        },],
+      },
+      {
+        courseName: "LED燈箱",
+        courseID: "PCB01.3",
+        description:
+          "由電子入門到設計自己的LED燈箱, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "LED燈箱",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Ent82zjqb_5Eqp2yEI_bXk8BgXPu5ODJaXfjPGV1hJM84Q?e=7CO3T3",
+        },],
+      },
+
       {
         courseName: "MP3播放器",
         courseID: "PCB01.4",
@@ -272,7 +319,39 @@ export const CourseInfo: CourseInfoType = [
         {
           topic: "MP3播放器",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/ErmQ3e-njB1Eueg8g7560xcBJyIUbYLn-OrVr562PwqoGg?e=dOQddM",
+            "https://stemturnede.sharepoint.com/:f:/g/ErmQ3e-njB1Eueg8g7560xcBzCWMs5wCoMtMTcS6fUc0Mw?e=9ye8Ho",
+        },],
+      },
+
+      {
+        courseName: "電容感應桌燈",
+        courseID: "PCB01.5",
+        description:
+          "由電子入門到設計自己的電容感應桌燈, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "電容感應桌燈",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Euy5kAXbQYRFv5H2KoQOsJsBf__cJNzeA9UtChk8ODCxYA?e=OFG3PV",
+        },],
+      },
+
+      {
+        courseName: "Microbit擴充板",
+        courseID: "PCB01.6",
+        description:
+          "由電子入門到設計自己的Microbit擴充板, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "Microbit擴充板",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Eh1m0S766yhNq8jFIJ78opcBkax9rRy3-oB8a2adeu2HKA?e=ywP7DA",
         },],
       },
 
@@ -329,6 +408,87 @@ export const CourseInfo: CourseInfoType = [
           },
         ]
       },
+
+      {
+        courseName: "智慧天文台",
+        courseID: "PCB01.8",
+        description:
+          "由電子入門到設計自己的智慧天文台, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "智慧天文台",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Eg9DcaEawK5KrA7qi5m1dCwBdaQYd7NZxa1aYIk8qr76bA?e=OVbPyK",
+        },],
+      },
+
+      {
+        courseName: "無綫行動電源",
+        courseID: "PCB01.9",
+        description:
+          "由電子入門到設計自己的無綫行動電源, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "無綫行動電源",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Es8GGuneYSJKjjzdE_mq4pABG-oSS9YEXRkUo_2-_edNqw?e=uGVmRE",
+        },],
+      },
+
+      {
+        courseName: "Pong Game掌上遊戲機",
+        courseID: "PCB01.10",
+        description:
+          "由電子入門到設計自己的無綫行動電源, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "Pong Game掌上遊戲機",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Ek9bXZMMgBRDj2ttMmr_bbIBzP4jaPA99VrsQaPtuhpsaw?e=4s0gHZ",
+        },],
+      },
+
+      {
+        courseName: "應援棒5小時工作坊",
+        courseID: "PCB01.11",
+        description:
+          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "應援棒5小時工作坊",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/ElOlCqKTLR1IsKtXASwFiiQBGA6cBwuHICKGs_yy2pyD9A?e=A4qXmm",
+        },],
+      },
+
+      {
+        courseName: "應援棒課程",
+        courseID: "PCB01.12",
+        description:
+          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "應援棒課程",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Ei4LExRCPc9JtWUUu4So_VIBjhxXTwOcB1wsWg88HZCChA?e=zd6S3u",
+        },],
+      },
+
       
     ]
     
