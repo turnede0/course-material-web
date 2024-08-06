@@ -330,7 +330,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的電容感應桌燈, 用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/c2mFcYh.jpg",
         resources: [          
         {
           topic: "電容感應桌燈",
