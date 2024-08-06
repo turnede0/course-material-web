@@ -9,6 +9,13 @@ export const CourseCategory: CourseCategoryType = [
     isActive: true,
   },
   {
+    categoryID: "PCB",
+    categoryName: "PCB Course",
+    imgUrl:
+      "https://i.imgur.com/eUWU240.png",
+    isActive: true,
+  },
+  {
     categoryID: "PCB Competition",
     categoryName: "PCB Competition",
     imgUrl:
