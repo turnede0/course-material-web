@@ -489,7 +489,38 @@ export const CourseInfo: CourseInfoType = [
         },],
       },
 
-      
+      {
+        courseName: "電子工程基礎課程",
+        courseID: "PCB02",
+        description:
+          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "電子工程基礎課程",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Et0Bt79yi6ZOvK4D0Jt5AEgB4_v34YKlCyP2hLu6nbR-9w?e=ahHGvN",
+        },],
+      },
+
+      {
+        courseName: "PCB蝕刻課程 ",
+        courseID: "PCB03",
+        description:
+          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
+        categoryID: "PCB",
+        image:
+          "https://i.imgur.com/CNSWNHa.png",
+        resources: [          
+        {
+          topic: "PCB蝕刻課程 ",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EmGrfJOIvfFAts2buv_tfwIBKi1Wp8eB-uAMIzeLkAXnUQ?e=b9Zybr",
+        },],
+      },
+
     ]
     
   },
