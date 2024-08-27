@@ -710,6 +710,23 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "SBA乒乓波掃地機器人",
+        courseID: "SBA001",
+        description: "SBA乒乓波掃地機器人",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "Lesson 0",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EgcunV58Z2FHhg1WVuDdJckBJu1yItvWeI1sv-gT5aQ1CA?e=pNoOEO",
+          },
+        ],
+      },
     ],
   },
   {
