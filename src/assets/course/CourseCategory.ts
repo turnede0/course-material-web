@@ -6,7 +6,7 @@ export const CourseCategory: CourseCategoryType = [
     categoryName: "Hardware",
     imgUrl:
       "https://i.imgur.com/eUWU240.png",
-    isActive: true,
+    isActive: false,
   },
   {
     categoryID: "PCB",

@@ -252,12 +252,12 @@ export const CourseInfo: CourseInfoType = [
           "用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "../laptop.jpg",
         resources: [          
         {
           topic: "EasyEDA 入門課程",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/EkS49Bp6E4hFp7OUgwtsN-YBjS80qS6N7H-UCX8FgI22Fg?e=KW1Hqe",
+            "https://stemturnede.sharepoint.com/:f:/g/EkS49Bp6E4hFp7OUgwtsN-YBjS80qS6N7H-UCX8FgI22Fg?e=9cjcin",
         },],
       },
       {
@@ -267,12 +267,12 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的復活蛋閃爍電路,用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/8nM8F2J.jpeg",
         resources: [          
         {
           topic: "復活蛋閃爍電路",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/EhzD71WnRTxMkibe57Ml7vUBRpgfwFESSaXo0xtxs3LvLw?e=sDtAI1",
+            "https://stemturnede.sharepoint.com/:f:/g/EhzD71WnRTxMkibe57Ml7vUBRpgfwFESSaXo0xtxs3LvLw?e=az5339",
         },],
       },
 
@@ -283,7 +283,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的NFC卡片, 用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/gNL8pEW.jpeg",
         resources: [          
         {
           topic: "NFC卡片設計",
@@ -298,7 +298,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的LED燈箱, 用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/hTBrSRn.jpeg",
         resources: [          
         {
           topic: "LED燈箱",
@@ -314,7 +314,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的MP3播放器,用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/GrXOsgB.jpeg",
         resources: [          
         {
           topic: "MP3播放器",
