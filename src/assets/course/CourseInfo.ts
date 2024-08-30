@@ -252,7 +252,7 @@ export const CourseInfo: CourseInfoType = [
           "用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "../laptop.jpg",
+          "https://github.com/turnede0/course-material-web/blob/998ed04809bc0a7126b7dcc947c5d392067d418b/src/assets/laptop.jpg",
         resources: [          
         {
           topic: "EasyEDA 入門課程",
