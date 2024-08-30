@@ -252,7 +252,7 @@ export const CourseInfo: CourseInfoType = [
           "用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://github.com/turnede0/course-material-web/blob/998ed04809bc0a7126b7dcc947c5d392067d418b/src/assets/laptop.jpg",
+          "https://i.imgur.com/EjfsSIr.png",
         resources: [          
         {
           topic: "EasyEDA 入門課程",
@@ -314,7 +314,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的MP3播放器,用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/GrXOsgB.jpeg",
+          "https://i.imgur.com/y52Ciza.jpeg",
         resources: [          
         {
           topic: "MP3播放器",
@@ -346,7 +346,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的Microbit擴充板, 用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/hQpOL2L.jpeg",
         resources: [          
         {
           topic: "Microbit擴充板",
@@ -362,7 +362,7 @@ export const CourseInfo: CourseInfoType = [
           "設計自己的電路板去整合傳感器AI芯片,通訊模組,並製作3D外殼以建立屬於自己的語音無線遙控器",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/RXXtKo4.png",
+          "https://i.imgur.com/DkTXZtg.png",
         downloadUrl:
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
@@ -416,7 +416,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的智慧天文台, 用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/jQ4mtmH.png",
         resources: [          
         {
           topic: "智慧天文台",
@@ -432,7 +432,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的無綫行動電源, 用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/J1QdzEy.jpeg",
         resources: [          
         {
           topic: "無綫行動電源",
@@ -448,7 +448,7 @@ export const CourseInfo: CourseInfoType = [
           "由電子入門到設計自己的無綫行動電源, 用生動有趣的方式初次接觸微電子",
         categoryID: "PCB",
         image:
-          "https://i.imgur.com/CNSWNHa.png",
+          "https://i.imgur.com/ulefhk4.jpeg",
         resources: [          
         {
           topic: "Pong Game掌上遊戲機",
@@ -458,7 +458,7 @@ export const CourseInfo: CourseInfoType = [
       },
 
       {
-        courseName: "應援棒5小時工作坊",
+        courseName: "應援棒設計課程",
         courseID: "PCB01.11",
         description:
           "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
@@ -473,21 +473,6 @@ export const CourseInfo: CourseInfoType = [
         },],
       },
 
-      {
-        courseName: "應援棒課程",
-        courseID: "PCB01.12",
-        description:
-          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
-        categoryID: "PCB",
-        image:
-          "https://i.imgur.com/CNSWNHa.png",
-        resources: [          
-        {
-          topic: "應援棒課程",
-          downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Ei4LExRCPc9JtWUUu4So_VIBjhxXTwOcB1wsWg88HZCChA?e=zd6S3u",
-        },],
-      },
 
       {
         courseName: "電子工程基礎課程",
