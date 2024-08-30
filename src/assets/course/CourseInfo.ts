@@ -249,7 +249,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "EasyEDA 入門課程",
         courseID: "PCB01",
         description:
-          "用生動有趣的方式初次接觸微電子",
+          "EasyEDA是一個網頁工具，讓使用者在不需要專業知識和撰寫程式碼的情況下，能簡單地進行原理圖繪製, 印刷電路板元器件放置及設計功能。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/EjfsSIr.png",
@@ -264,7 +264,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "復活蛋閃爍電路",
         courseID: "PCB01.1",
         description:
-          "由電子入門到設計自己的復活蛋閃爍電路,用生動有趣的方式初次接觸微電子",
+          "學習以鈕扣電池驅動一個可以令LED閃爍的非穩態多諧振盪器(Astable Multivibrator)電路，並在電路板上加入復活蛋元素的設計，開始成為微電子工程師的第一步。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/8nM8F2J.jpeg",
@@ -280,7 +280,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "NFC個人卡片",
         courseID: "PCB01.2",
         description:
-          "由電子入門到設計自己的NFC卡片, 用生動有趣的方式初次接觸微電子",
+          "對卡片燒錄個人資料,如姓名、電話號碼。當其他NFC裝置掃過時可以將資料自動輸入。也可設定網址,掃過時自動導向網站。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/gNL8pEW.jpeg",
@@ -295,7 +295,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "LED燈箱",
         courseID: "PCB01.3",
         description:
-          "由電子入門到設計自己的LED燈箱, 用生動有趣的方式初次接觸微電子",
+          "使用USB供電給LED背板令到面板上的圖案發光。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/hTBrSRn.jpeg",
@@ -311,7 +311,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "MP3播放器",
         courseID: "PCB01.4",
         description:
-          "由電子入門到設計自己的MP3播放器,用生動有趣的方式初次接觸微電子",
+          "對播放器燒錄MP3音頻檔，並且使用按鈕或者傳感器去觸發音效，并基於這個進行基礎物聯網設備開發",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/y52Ciza.jpeg",
@@ -327,7 +327,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "電容感應桌燈",
         courseID: "PCB01.5",
         description:
-          "由電子入門到設計自己的電容感應桌燈, 用生動有趣的方式初次接觸微電子",
+          "使用USB供電給LED流水燈，利用電容感應芯片檢測使用者是否觸碰PCB，以此更改流水燈的模式。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/c2mFcYh.jpg",
@@ -343,7 +343,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "Microbit擴充板",
         courseID: "PCB01.6",
         description:
-          "由電子入門到設計自己的Microbit擴充板, 用生動有趣的方式初次接觸微電子",
+          "使用鋰電池供電給Microbit，並使用擴充板上各種功能，例如RGB LED, 馬達驅動, 温濕度傳感器。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/hQpOL2L.jpeg",
@@ -413,7 +413,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "智慧天文台",
         courseID: "PCB01.8",
         description:
-          "由電子入門到設計自己的智慧天文台, 用生動有趣的方式初次接觸微電子",
+          "用電腦軟體進行設計，並實際製作出屬於自已的智慧天文台裝置。智慧天文台系統能提供天氣和環境資訊，同學們可以藉此進一步分析和視覺化數據，如風向、紫外線強度、空氣質素等，並應用在日常生活中。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/jQ4mtmH.png",
@@ -429,7 +429,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "無綫行動電源",
         courseID: "PCB01.9",
         description:
-          "由電子入門到設計自己的無綫行動電源, 用生動有趣的方式初次接觸微電子",
+          "但可以使用常規的USB線進行充放電，更可以利用無綫充電芯片檢測兼容無線充電的行動裝置，進行快速無綫充電。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/J1QdzEy.jpeg",
@@ -445,7 +445,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "Pong Game掌上遊戲機",
         courseID: "PCB01.10",
         description:
-          "由電子入門到設計自己的無綫行動電源, 用生動有趣的方式初次接觸微電子",
+          "可以使用按鈕遊玩燒錄在ESP32內的世界上第一款電子遊戲: Pong Game",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/ulefhk4.jpeg",
@@ -461,7 +461,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "應援棒設計課程",
         courseID: "PCB01.11",
         description:
-          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
+          "整個作品分為四大部份，電路板設計，中控介面設計，3D外殼設計，用戶手冊編寫 ",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/CNSWNHa.png",
@@ -478,7 +478,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "電子工程基礎課程",
         courseID: "PCB02",
         description:
-          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
+          "會透過基礎電路製作，PCB電路板作品製作及焊接教學，掌握微電子及電路學的基礎知識，並進一步透過學習使用藍牙等芯片製作智慧作品，認識微電子科技的應用！ 此外本課堂另外設有最終作品項目,給學生運用課堂知識,以工業4.0及綠色電機為題以小組為單位創作作品。",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/CNSWNHa.png",
@@ -494,7 +494,7 @@ export const CourseInfo: CourseInfoType = [
         courseName: "PCB蝕刻課程 ",
         courseID: "PCB03",
         description:
-          "由電子入門到設計自己的應援棒, 用生動有趣的方式初次接觸微電子",
+          "體驗使用化學溶液進行PCB蝕刻",
         categoryID: "PCB",
         image:
           "https://i.imgur.com/CNSWNHa.png",
