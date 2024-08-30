@@ -243,7 +243,7 @@ export const CourseInfo: CourseInfoType = [
   {
     categoryID: "PCB",
     categoryDescription:
-      "無論是顯示器，平板電腦還是智能手機，都是硬件。 我們社會所有現有技術的皆由硬件支撐。 通過物理和電子知識的各種組合，我們可以創造出從日常生活、科學研究、能量采集到硬件加速等任何方面來幫助人類的設備",
+      "無論是顯示器，平板電腦還是智能手機，都是硬件。 我們社會所有現有技術的皆由硬件支撐。通過物理和電子知識的各種組合，我們可以創造出從日常生活、科學研究、能量采集到硬件加速等任何方面來幫助人類的設備",
     courses: [
       {
         courseName: "EasyEDA 入門課程",
@@ -255,9 +255,9 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/EjfsSIr.png",
         resources: [          
         {
-          topic: "EasyEDA 入門課程",
+          topic: "PCB設計",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/EkS49Bp6E4hFp7OUgwtsN-YBjS80qS6N7H-UCX8FgI22Fg?e=9cjcin",
+            "https://stemturnede.sharepoint.com/:f:/g/Eo5uHeHkMD9DtjmefrQccbsBO0LpJzl2UviyxMZy81i8qA?e=L2t61g",
         },],
       },
       {
@@ -270,10 +270,16 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/8nM8F2J.jpeg",
         resources: [          
         {
-          topic: "復活蛋閃爍電路",
+          topic: "PCB設計",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/EhzD71WnRTxMkibe57Ml7vUBRpgfwFESSaXo0xtxs3LvLw?e=az5339",
-        },],
+            "https://stemturnede.sharepoint.com/:f:/g/Em5J41v5WKhIpNphLJYDB5IBXe6IjUmZEbMrIYXL5ohBTg?e=1amcez",
+        },
+        {
+          topic: "焊接教學",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EpE88Wb6bu1DpOb_KZaFhWUB9Ct__yoVb6w2TQBB5C_ZLw?e=SoyJpd",
+        },
+      ],
       },
 
       {
@@ -286,10 +292,17 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/gNL8pEW.jpeg",
         resources: [          
         {
-          topic: "NFC卡片設計",
+          topic: "PCB設計",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/EpL77KQSRaRMlLigd8kmAw4BoNqe7rWm-aWzAljzQdvmOQ?e=4WNS50",
-        },],
+            "https://stemturnede.sharepoint.com/:f:/g/EsyBq7hobnFIr5l0lv6RoeUBEGWj7dCJkrlQB52wG2Wsjw?e=2O1gyo",
+        },
+        {
+          topic: "焊接教學",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EvX4j0lqjgZAjNMYf6b0dfMBrn7scxaaRn3cii1bvHHbGg?e=mZGMcl",
+        },
+      
+      ],
       },
       {
         courseName: "LED燈箱",
@@ -301,10 +314,16 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/hTBrSRn.jpeg",
         resources: [          
         {
-          topic: "LED燈箱",
+          topic: "PCB設計",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Ent82zjqb_5Eqp2yEI_bXk8BgXPu5ODJaXfjPGV1hJM84Q?e=7CO3T3",
-        },],
+            "https://stemturnede.sharepoint.com/:f:/g/EvcdYtyeUGNFhux0kXzLDJMBU_KTCsiM_fnCdKvE-0kTig?e=jOPh4u",
+        },
+        {
+          topic: "焊接教學",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EvvAUWjvOplNkKxWNoZyItsBpgAkjlN9lN9KCB1uTTWE8A?e=X5V22Q",
+        },
+      ],
       },
 
       {
@@ -316,11 +335,16 @@ export const CourseInfo: CourseInfoType = [
         image:
           "https://i.imgur.com/y52Ciza.jpeg",
         resources: [          
-        {
-          topic: "MP3播放器",
-          downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/ErmQ3e-njB1Eueg8g7560xcBzCWMs5wCoMtMTcS6fUc0Mw?e=9ye8Ho",
-        },],
+          {
+            topic: "PCB設計",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EgSyc3wuEdtKveZ3NY5ArJABVb0i8-e0YTVD0S-1fgNTrw?e=Ca9XpG",
+          },
+          {
+            topic: "焊接教學",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EtU4M0OG4SFCrmI26-C0WZsB1jh6FcPo3pdWP7xJcqkTkQ?e=eOwe7N",
+          },],
       },
 
       {
@@ -332,11 +356,16 @@ export const CourseInfo: CourseInfoType = [
         image:
           "https://i.imgur.com/c2mFcYh.jpg",
         resources: [          
-        {
-          topic: "電容感應桌燈",
-          downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Euy5kAXbQYRFv5H2KoQOsJsBf__cJNzeA9UtChk8ODCxYA?e=OFG3PV",
-        },],
+          {
+            topic: "PCB設計",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Ekj3pgXTW49IonliJZVOPM4BOrfN-yMsDzOb9gDw19gFzg?e=ZbD1p1",
+          },
+          {
+            topic: "焊接教學",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Eu-jiWxCW39Nsly_QdbeD6oBaC5UftHjtEiNXs7tdaf5Pw?e=9l5FLW",
+          },],
       },
 
       {
@@ -349,10 +378,16 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/hQpOL2L.jpeg",
         resources: [          
         {
-          topic: "Microbit擴充板",
+          topic: "PCB設計",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Eh1m0S766yhNq8jFIJ78opcBkax9rRy3-oB8a2adeu2HKA?e=ywP7DA",
-        },],
+            "https://stemturnede.sharepoint.com/:f:/g/EqRotht9SIBCh3Ww7WtHYLgBFgvVIFVN71SUY6Rp6GbkQw?e=9aPEyZ",
+        },
+        {
+          topic: "焊接教學",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Evb7oqvmIE5As09EEzlnwxwBkpc5jy7_gnOVojhJd2TEqQ?e=WWhPn7",
+        },
+      ],
       },
 
       {
@@ -419,10 +454,13 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/jQ4mtmH.png",
         resources: [          
         {
-          topic: "智慧天文台",
+          topic: "PCB設計",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Eg9DcaEawK5KrA7qi5m1dCwBdaQYd7NZxa1aYIk8qr76bA?e=OVbPyK",
-        },],
+            "https://stemturnede.sharepoint.com/:f:/g/EjNzIaUmYzVKmg17JSl1lSMB0nBF3tdoW7rsCCpHFdNF6Q?e=4v8Zoi",
+        },
+
+      
+      ],
       },
 
       {
@@ -435,9 +473,9 @@ export const CourseInfo: CourseInfoType = [
           "https://i.imgur.com/J1QdzEy.jpeg",
         resources: [          
         {
-          topic: "無綫行動電源",
+          topic: "焊接教學",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Es8GGuneYSJKjjzdE_mq4pABG-oSS9YEXRkUo_2-_edNqw?e=uGVmRE",
+            "https://stemturnede.sharepoint.com/:f:/g/EhludtBcCq5HpPCoEYHiI4QBRJsY9fE8Kvm6XCWyoj70MQ?e=xPVonu",
         },],
       },
 
@@ -450,11 +488,13 @@ export const CourseInfo: CourseInfoType = [
         image:
           "https://i.imgur.com/ulefhk4.jpeg",
         resources: [          
-        {
-          topic: "Pong Game掌上遊戲機",
-          downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Ek9bXZMMgBRDj2ttMmr_bbIBzP4jaPA99VrsQaPtuhpsaw?e=4s0gHZ",
-        },],
+        // {
+        //   topic: "Pong Game掌上遊戲機",
+        //   downloadUrl:
+        //     "https://stemturnede.sharepoint.com/:f:/g/Ek9bXZMMgBRDj2ttMmr_bbIBzP4jaPA99VrsQaPtuhpsaw?e=4s0gHZ",
+        // },
+      
+      ],
       },
 
       {
@@ -466,11 +506,15 @@ export const CourseInfo: CourseInfoType = [
         image:
           "https://i.imgur.com/CNSWNHa.png",
         resources: [          
-        {
-          topic: "應援棒5小時工作坊",
-          downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/ElOlCqKTLR1IsKtXASwFiiQBGA6cBwuHICKGs_yy2pyD9A?e=A4qXmm",
-        },],
+        // {
+        //   topic: "應援棒5小時工作坊",
+        //   downloadUrl:
+        //     "https://stemturnede.sharepoint.com/:f:/g/ElOlCqKTLR1IsKtXASwFiiQBGA6cBwuHICKGs_yy2pyD9A?e=A4qXmm",
+        // },
+      
+      
+      ],
+        
       },
 
 
@@ -483,11 +527,13 @@ export const CourseInfo: CourseInfoType = [
         image:
           "https://i.imgur.com/CNSWNHa.png",
         resources: [          
-        {
-          topic: "電子工程基礎課程",
-          downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/Et0Bt79yi6ZOvK4D0Jt5AEgB4_v34YKlCyP2hLu6nbR-9w?e=ahHGvN",
-        },],
+        // {
+        //   topic: "電子工程基礎課程",
+        //   downloadUrl:
+        //     "https://stemturnede.sharepoint.com/:f:/g/Et0Bt79yi6ZOvK4D0Jt5AEgB4_v34YKlCyP2hLu6nbR-9w?e=ahHGvN",
+        // },
+      
+      ],
       },
 
       {
@@ -499,11 +545,14 @@ export const CourseInfo: CourseInfoType = [
         image:
           "https://i.imgur.com/CNSWNHa.png",
         resources: [          
-        {
-          topic: "PCB蝕刻課程 ",
-          downloadUrl:
-            "https://stemturnede.sharepoint.com/:f:/g/EmGrfJOIvfFAts2buv_tfwIBKi1Wp8eB-uAMIzeLkAXnUQ?e=b9Zybr",
-        },],
+        // {
+        //   topic: "PCB蝕刻課程 ",
+        //   downloadUrl:
+        //     "https://stemturnede.sharepoint.com/:f:/g/EmGrfJOIvfFAts2buv_tfwIBKi1Wp8eB-uAMIzeLkAXnUQ?e=b9Zybr",
+        // },
+      
+      
+      ],
       },
 
     ]
