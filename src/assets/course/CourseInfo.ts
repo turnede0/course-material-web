@@ -767,10 +767,21 @@ export const CourseInfo: CourseInfoType = [
         description: "香港電子科技商會 - IFF 2024 微電子主題工作坊",
         categoryID: "workshop",
         image:
-          "https://th.bing.com/th/id/R.bfa21ec379f7c009c1ca3262a0727684?rik=G0Dwv0FU19z%2fjg&pid=ImgRaw&r=0",
+          "https://images.app.goo.gl/Uguth6Ysqon6HCEL9",
         downloadUrl:
           "https://stemturnede.sharepoint.com/:f:/g/ErtigeSI-FxAkfe1iU_jZEABsd88VKqn7lCZBKA7IiugJw?e=kDOtaJ",
-        
+          resources: [
+            {
+              topic: "1 - PCB Makers and EasyEDA",
+              downloadUrl:
+                "https://stemturnede.sharepoint.com/:f:/g/EmIxx8H6YMpCpD5QkqZ01s0BaM-ugoEAMJkn8SlkB4ziyw?e=vHCxNx",
+            },
+            {
+              topic: "2 - Digital Circuit, Chips and Semtron Studio ",
+              downloadUrl:
+                "https://stemturnede.sharepoint.com/:f:/g/Ekd9BkgYTiNIo7Q1v_LgM0QB4wjwu7JnLtOoS7ly12zLDQ?e=2WsOtm",
+            },
+          ],
       },
     ],
   },
