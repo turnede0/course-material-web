@@ -767,7 +767,7 @@ export const CourseInfo: CourseInfoType = [
         description: "香港電子科技商會 - IFF 2024 微電子主題工作坊",
         categoryID: "workshop",
         image:
-          "https://images.app.goo.gl/Uguth6Ysqon6HCEL9",
+          "https://scontent.fhkg1-1.fna.fbcdn.net/v/t39.30808-6/327210816_882356836380793_3863020957098899546_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=uOXie3FQ3RoQ7kNvgGOrQRO&_nc_ht=scontent.fhkg1-1.fna&oh=00_AYDU6DjU_gcxVLiZX9N6mwQMoB4YTk6bymmBkSb2MpuJtQ&oe=66EB6DA9",
         downloadUrl:
           "https://stemturnede.sharepoint.com/:f:/g/ErtigeSI-FxAkfe1iU_jZEABsd88VKqn7lCZBKA7IiugJw?e=kDOtaJ",
           resources: [
