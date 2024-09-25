@@ -759,6 +759,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EgcunV58Z2FHhg1WVuDdJckBJu1yItvWeI1sv-gT5aQ1CA?e=pNoOEO",
           },
+          {
+            topic: "Lesson 1",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/ElHZL1c81ddHg6yBKQ6kZJsB693QNp0V4PA2x1oEAXMd-g?e=a8AlUE",
+          },
         ],
       },
       {
