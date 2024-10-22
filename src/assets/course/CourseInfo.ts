@@ -769,6 +769,16 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EgY6bCBH6KtLtmlYRcMcYQwBGGrmSN5Y2-vHv_1_Ei107Q?e=xDZaNG",
           },
+          {
+            topic: "Lesson 3 Twist and Odometry",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/Esbtu3vQS85Jvqjgtl8C9FEBFPxdy5oSnDKRrKESo0LPbQ?e=D3ENPf",
+          },
+          {
+            topic: "Lesson 4 Opencv Ball Detection and Ball Chasing",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EqjXhLlaTxZFt-p9e7ph_4wBbpeiHDyvDXoH8jb4xXb4Qw?e=d1rBwu",
+          },
         ],
       },
       {
