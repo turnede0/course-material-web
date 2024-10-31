@@ -803,6 +803,43 @@ export const CourseInfo: CourseInfoType = [
             },
           ],
       },
+      {
+        courseName: "ATS應援棒工作坊",
+        courseID: "WS004",
+        description: "ATS應援棒工作坊",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "第1章 如何使用EasyEDA",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EmdCT1DhJyZKkbI_IdugonABBBUeo3je27LT0qoJUqUxdw?e=qde3uP",
+          },
+          {
+            topic: "第2章 使用Fusion360設計3D",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EuoiS3iLIWBBsTIZ41ZkrKsBDwG5AhBFlQ1WnpvYp0PYoA?e=0GsBGK",
+          },
+          {
+            topic: "第3章 應援棒遠端控制編程",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/Eoo4lcZ0NWFMs5PMQtB4zxwBU8qMtUr39sfKsIMxKI8A3A?e=CTNgie",
+          },
+          {
+            topic: "第4章 應援棒組裝和測試",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EkMhFgHAE4dDr2hPygpsRA0BJXTi7ugQ8UYlAS1U-4rijA?e=3RoZYT",
+          },
+          {
+            topic: "應援棒大型工作坊SOP",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EtywsO4jJ6VLvQ8W18f13L4BQP96ELsyk3Hifc2qr5_rqQ?e=TBezy3",
+          },
+        ],
+      },
     ],
   },
   {
