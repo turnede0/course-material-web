@@ -779,6 +779,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EqjXhLlaTxZFt-p9e7ph_4wBbpeiHDyvDXoH8jb4xXb4Qw?e=d1rBwu",
           },
+          {
+            topic: "Lesson 5 SBA報告及3D打印",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EvcymC_uD0tBpm0KGHyE-VIBhIbS43_pYhKpRZ7ZuCTeTw?e=iEmaie",
+          },
         ],
       },
       {
