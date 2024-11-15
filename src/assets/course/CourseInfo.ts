@@ -649,6 +649,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Eq-jhl9eu3VEqGVUjpgLJicB07r9NYvOqbNLI2cT_n6ZFg?e=GUWpOW",
           },
+          {
+            topic: "Fusion360 學生認證 & 安裝指引",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EmTkqsQA43NAtB0X4M_pl64ByQr2l3yG-9fSBlqoUxNaag?e=NT1hfd",
+          },
 
         ],
       },
