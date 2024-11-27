@@ -638,27 +638,37 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "第1章 如何使用EasyEDA",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EmdCT1DhJyZKkbI_IdugonABBBUeo3je27LT0qoJUqUxdw?e=qde3uP",
+              "https://stemturnede.sharepoint.com/:f:/s/msteams_10ec96/EiM9XtxW8oNDqAgjoIiCM2QBrZkStzm20rpEViq7I74Xrw?e=r7GbS3",
           },
           {
             topic: "第2章 使用Fusion360設計3D",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EuoiS3iLIWBBsTIZ41ZkrKsBDwG5AhBFlQ1WnpvYp0PYoA?e=0GsBGK",
+              "https://stemturnede.sharepoint.com/:f:/s/msteams_10ec96/EjDNMc8rADBEu4Y96GskVt4B7__2t8UY5hFyQyBJYziy5g?e=ud8eRo",
           },
           {
             topic: "第3章 應援棒遠端控制編程",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/Eoo4lcZ0NWFMs5PMQtB4zxwBU8qMtUr39sfKsIMxKI8A3A?e=CTNgie",
+              "https://stemturnede.sharepoint.com/:f:/s/msteams_10ec96/EtCPcUQhIUZDpORYbH1cBTcB8A1XEI01D-ldzu12RTAYHg?e=70llvk",
           },
           {
             topic: "第4章 應援棒組裝和測試",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EkMhFgHAE4dDr2hPygpsRA0BJXTi7ugQ8UYlAS1U-4rijA?e=3RoZYT",
+              "https://stemturnede.sharepoint.com/:f:/s/msteams_10ec96/EtEmy_Pwdb5EggpUtGk1L4YB5nkXQtzw360gsCI9wtJzrA?e=br3gdq",
           },
           {
-            topic: "應援棒大型工作坊SOP",
+            topic: "工作坊day1 流水線焊接應援棒",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EtywsO4jJ6VLvQ8W18f13L4BQP96ELsyk3Hifc2qr5_rqQ?e=TBezy3",
+              "https://stemturnede.sharepoint.com/:f:/s/msteams_10ec96/EvCuf5Y5CvdKgt-DQe4_7lQB3yB8JvNIjF1huYd1AvRriQ?e=i8jO2M",
+          },
+          {
+            topic: "工作坊day1 應援棒編程設計",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/msteams_10ec96/EveE5nqItzxCicIDviPCEtEBXmt0wQ7cNQi8JFlm9ly2dQ?e=agCPQ5",
+          },
+          {
+            topic: "工作坊day2 流水線燒錄應援棒",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/msteams_10ec96/EtIcvwILfvNChMy1PUe9v5IBCqQwhkvgmXXdT2AD-hjt1g?e=DAT5Fh",
           },
         ],
       },
