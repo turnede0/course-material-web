@@ -466,7 +466,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/EmTkqsQA43NAtB0X4M_pl64ByQr2l3yG-9fSBlqoUxNaag?e=NT1hfd",
           },
-
+          {
+            topic: "CoolTerm Serial Debugger",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/Esj5CnNYMmxGiqX4mXNEOggBgX3eVNGclWZQJHFruGNqPg?e=l4HfqM",
+          },
         ],
       },
     ],
