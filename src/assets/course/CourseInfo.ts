@@ -113,6 +113,11 @@ export const CourseInfo: CourseInfoType = [
           downloadUrl:
             "https://stemturnede.sharepoint.com/:f:/g/EvvAUWjvOplNkKxWNoZyItsBpgAkjlN9lN9KCB1uTTWE8A?e=X5V22Q",
         },
+        {
+          topic: "PCB蝕刻教學",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:p:/g/ERA9XXYrsQ5EqTlBOppyarsBRqOSE8VNbtLgMLGkkzk-Zg?e=fXGrQ9",
+        },
       ],
       },
 
@@ -247,6 +252,11 @@ export const CourseInfo: CourseInfoType = [
           topic: "PCB設計",
           downloadUrl:
             "https://stemturnede.sharepoint.com/:f:/g/EjNzIaUmYzVKmg17JSl1lSMB0nBF3tdoW7rsCCpHFdNF6Q?e=4v8Zoi",
+        },
+        {
+          topic: "天文台RS485通信及MCU編程",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:p:/g/ET6q55HfEzVDjWiJ3W26eKMBJW5q7JFYWC_nticwKNRINA?e=rbehhT", 
         },
 
       
