@@ -1,13 +1,13 @@
 import { CourseCategoryType } from "../../utils/types";
 
 export const CourseCategory: CourseCategoryType = [
-  {
-    categoryID: "hardware",
-    categoryName: "Hardware",
-    imgUrl:
-      "https://i.imgur.com/eUWU240.png",
-    isActive: false,
-  },
+  // {
+  //   categoryID: "hardware",
+  //   categoryName: "Hardware",
+  //   imgUrl:
+  //     "https://i.imgur.com/eUWU240.png",
+  //   isActive: false,
+  // },
   {
     categoryID: "PCB",
     categoryName: "PCB Course",
