@@ -258,6 +258,11 @@ export const CourseInfo: CourseInfoType = [
           downloadUrl:
             "https://stemturnede.sharepoint.com/:p:/g/ET6q55HfEzVDjWiJ3W26eKMBJW5q7JFYWC_nticwKNRINA?e=rbehhT", 
         },
+        {
+          topic: "焊接教學",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Ev8aedo1JFxOkglW2bkIgXUBAihIjCVFgYJzDfhuHK5zww?e=19RAZj", 
+        },
 
       
       ],
