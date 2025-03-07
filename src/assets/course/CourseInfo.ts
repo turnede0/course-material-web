@@ -340,6 +340,11 @@ export const CourseInfo: CourseInfoType = [
           downloadUrl:
             "https://stemturnede.sharepoint.com/:f:/g/EsaP1zwOcOdEhyfQc1oov9kBxlMmm5PNyp1QdcGJ_NVRnQ?e=XhjE4m",
         },
+        {
+          topic: " Lesson 10-14 焊接教學",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Em7qT4k3wUtDn6e6G_Zx63ABbJraZjRH7EVhCh4uLhZJeg?e=BDaSdA",
+        },
       
       ],
         
