@@ -496,6 +496,11 @@ export const CourseInfo: CourseInfoType = [
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/g/Esj5CnNYMmxGiqX4mXNEOggBgX3eVNGclWZQJHFruGNqPg?e=l4HfqM",
           },
+          {
+            topic: "OneNet注冊 & 創建數據源模板",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EkT4AVK3XxdPp3WWDnPD4x0B0GMfYKTFifrLCEg39l5Pxg?e=3BL8fO",
+          }
         ],
       },
     ],
