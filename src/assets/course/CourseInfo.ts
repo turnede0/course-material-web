@@ -345,6 +345,11 @@ export const CourseInfo: CourseInfoType = [
           downloadUrl:
             "https://stemturnede.sharepoint.com/:f:/g/Em7qT4k3wUtDn6e6G_Zx63ABbJraZjRH7EVhCh4uLhZJeg?e=BDaSdA",
         },
+        {
+          topic: " 習作遞交",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/Es7rf8Lpy9xFuQQuYw9DF3wBuh6VUdAfG1Bu10SbAKqTIQ?e=c7Ohbn",
+        },
       
       ],
         
