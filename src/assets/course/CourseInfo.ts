@@ -706,6 +706,23 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "李宗德蝴蝶園鏡頭配置工作坊",
+        courseID: "WS005",
+        description: "李宗德蝴蝶園鏡頭配置工作坊",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "第1章 蝴蝶園鏡頭配置",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:p:/s/PunchCardRDProject/EXvkY23svpFAl4N00bwoH8YBzycor2aSp4FsITQKyLEDKw?e=xTEyrf",
+          },
+        ],
+      },
     ],
   },
   {
