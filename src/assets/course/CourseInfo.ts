@@ -719,7 +719,7 @@ export const CourseInfo: CourseInfoType = [
           {
             topic: "第1章 蝴蝶園鏡頭配置",
             downloadUrl:
-              "https://stemturnede.sharepoint.com/:p:/s/PunchCardRDProject/EXvkY23svpFAl4N00bwoH8YBzycor2aSp4FsITQKyLEDKw?e=xTEyrf",
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EhLFVWHiW9dCnWkbVmY_3s8BeBnoWBvk6BwqyMdqrJqwoQ?e=qAIj03",
           },
         ],
       },
