@@ -256,7 +256,7 @@ export const CourseInfo: CourseInfoType = [
         {
           topic: "天文台RS485通信及MCU編程",
           downloadUrl:
-            "https://stemturnede.sharepoint.com/:p:/g/ET6q55HfEzVDjWiJ3W26eKMBJW5q7JFYWC_nticwKNRINA?e=rbehhT", 
+            "https://stemturnede.sharepoint.com/:f:/g/Ev5ayq9NRtFHnkFAtvUl768BTPw0wpEyV5pEWxSleLq7Qw?e=jBdDtJ", 
         },
         {
           topic: "焊接教學",
