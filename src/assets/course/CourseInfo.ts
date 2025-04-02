@@ -48,7 +48,13 @@ export const CourseInfo: CourseInfoType = [
           topic: "PCB設計",
           downloadUrl:
             "https://stemturnede.sharepoint.com/:f:/g/Eo5uHeHkMD9DtjmefrQccbsBO0LpJzl2UviyxMZy81i8qA?e=L2t61g",
-        },],
+        },
+        {
+          topic: "註冊EasyEDA帳號",
+          downloadUrl:
+            "https://stemturnede.sharepoint.com/:f:/g/EuAvB6VQOkJEhYi3pGjWiaEB_swil45-_LHeK7FqfuiKnA?e=W00hJo",
+        },
+      ],
       },
       {
         courseName: "復活蛋閃爍電路",
