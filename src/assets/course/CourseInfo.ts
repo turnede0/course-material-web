@@ -727,6 +727,68 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "1.5蝴蝶園課程",
+        courseID: "WS006",
+        description: "1.5蝴蝶園課程",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "第1章 認識micro:bit及衆智成城物聯網套裝",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EqSqv1mr3eNCrxktF_AyatEBa92Uei3NTpen0iyLUNO9zQ?e=AjNtlY",
+          },
+          {
+            topic: "第2章 認識OneNET平臺",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/Etp_eLwOSqhKux9cIqK3GokBhiDkuwL5u_W30roMw9bYvw?e=GgtYyo",
+          },
+          {
+            topic: "第3章 溫濕度數據上傳OneNET",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EqXp8CgxbjJJr04LYFNX534B00216hZqE-J_u1xvHlZoXA?e=6ei11X",
+          },
+          {
+            topic: "第4章 智能環境監控站",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EmAyz8MtqfhNlwkFXbDyhQkBWO7t6_1Q6AzaeAWui6CjFA?e=eYTnSS",
+          },
+          {
+            topic: "第5章 Roboflow手勢辨認",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/ElbdXQ7iWBFPqI7LVGWlVdEB-8WjBQOed3WHmEmu5vKZhg?e=Eh1mO9",
+          },
+          {
+            topic: "第6章 蝴蝶生命周期辨識模型",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EhmVIwmFI9RAlh8d4jEPQUIBbzcIawIkcmjg57do_tO4Jg?e=EeechU",
+          },
+          {
+            topic: "第7章 紙蝴蝶種類辨識模型",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EmsAev0vtLlKodPNVZswU3QB2CfhuvsMedbUtHTrqP1WXw?e=zmeo5r",
+          },
+          {
+            topic: "第8章 p5.js入門",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/Et_y_STgUKNHtFOVi33LIagBWH7nK5SDuuZuaRjZIHZfrA?e=To3bpY",
+          },
+          {
+            topic: "第9章 數據可視化項目設計",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EqnM0hZ6qIlPnbk7EG7-mF8BVgEqo_yDuhRRuKvvgiTUVQ?e=1DmSu5",
+          },
+          {
+            topic: "複製文本",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:w:/s/PunchCardRDProject/EXIXluUprvtLg3AkWLYU2rUBhUZJ-qNzQeHVAj2Vu1xUig?e=ghcITd",
+          },
+        ],
+      },
     ],
   },
   {
