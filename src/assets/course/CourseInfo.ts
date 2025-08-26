@@ -790,7 +790,7 @@ export const CourseInfo: CourseInfoType = [
         ],
       },
       {
-        courseName: "製作編寫發光PCB",
+        courseName: "製作便携發光PCB",
         courseID: "WS007",
         description: "製作便携發光PCB",
         categoryID: "workshop",
