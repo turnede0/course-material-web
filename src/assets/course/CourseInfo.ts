@@ -789,6 +789,23 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "製作編寫發光PCB",
+        courseID: "WS007",
+        description: "製作便携發光PCB",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "製作便携發光PCB",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/EqnpSYXXZylLnX9lVhlDqvMB8L0079lMu_mzguBmW_6SqA?e=Vc9iE9",
+          },
+        ],
+      },
     ],
   },
   {
