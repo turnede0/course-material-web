@@ -600,9 +600,9 @@ export const CourseInfo: CourseInfoType = [
         ],
       },
       {
-        courseName: "SBA乒乓波掃地機器人",
+        courseName: " 跨學科學習-乒乓波掃地機器人",
         courseID: "SBA001",
-        description: "SBA乒乓波掃地機器人",
+        description: "跨學科學習-乒乓波掃地機器人",
         categoryID: "workshop",
         image:
           "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
@@ -635,7 +635,7 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EqjXhLlaTxZFt-p9e7ph_4wBbpeiHDyvDXoH8jb4xXb4Qw?e=d1rBwu",
           },
           {
-            topic: "Lesson 5 SBA報告及3D打印",
+            topic: "Lesson 5 報告及3D打印",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EvcymC_uD0tBpm0KGHyE-VIBhIbS43_pYhKpRZ7ZuCTeTw?e=iEmaie",
           },
