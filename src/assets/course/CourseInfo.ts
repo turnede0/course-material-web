@@ -783,7 +783,7 @@ export const CourseInfo: CourseInfoType = [
               "https://stemturnede.sharepoint.com/:f:/s/PunchCardRDProject/EqnM0hZ6qIlPnbk7EG7-mF8BVgEqo_yDuhRRuKvvgiTUVQ?e=1DmSu5",
           },
           {
-            topic: "複製文本 ",
+            topic: "複製文本",
             downloadUrl:
               "https://stemturnede.sharepoint.com/:w:/s/PunchCardRDProject/EXIXluUprvtLg3AkWLYU2rUB1Uq8hA4LVOPpYb1P45koKA",
           },
