@@ -738,49 +738,9 @@ export const CourseInfo: CourseInfoType = [
           "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
         resources: [
           {
-            topic: "第1章 認識micro:bit及衆智成城物聯網套裝",
+            topic: "教材空間",
             downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson1-zhong-zhi-cheng-cheng-de-ru-men-ti-yan",
-          },
-          {
-            topic: "第2章 認識OneNET平臺",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson2-ren-shi-onenet-ping-tai",
-          },
-          {
-            topic: "第3章 溫濕度數據上傳OneNET",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson3-wen-shi-du-chuan-gan-qi",
-          },
-          {
-            topic: "第4章 智能環境監控站",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson4-shi-nei-wu-lian-wang-chang-jing-gou-jian",
-          },
-          {
-            topic: "第5章 Roboflow手勢辨認",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson5-roboflow-shou-shi-bian-ren",
-          },
-          {
-            topic: "第6章 蝴蝶生命周期辨識模型",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson6-hu-die-sheng-ming-zhou-qi-bian-shi-mo-xing",
-          },
-          {
-            topic: "第7章 紙蝴蝶種類辨識模型",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson7-zhi-hu-die-zhi-zuo-yu-pai-she",
-          },
-          {
-            topic: "第8章 p5.js入門",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson8-p5.js-zhi-zuo-hu-die-bian-shi-ying-yong",
-          },
-          {
-            topic: "第9章 數據可視化項目設計",
-            downloadUrl:
-              "https://exampledoc.gitbook.io/butterfly/lesson910-shu-ju-ke-shi-hua-xiang-mu-she-ji",
+              "https://stemturnede.sharepoint.com/:f:/g/IgCG0X5cv_H0RJP815o9lDdlARrkm7mNMbINSk6SLSGhmJg?e=GXTqUx",
           },
         ],
       },
