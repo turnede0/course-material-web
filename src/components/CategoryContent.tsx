@@ -1,7 +1,5 @@
 import React from "react";
 import Laptop from "../assets/laptop.jpg";
-import { useParams } from "react-router-dom";
-import { CourseInfo } from "../assets/course/CourseInfo";
 
 const CategoryContent = ({
   title,

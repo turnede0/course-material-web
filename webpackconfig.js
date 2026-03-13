@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 module.exports = {
   entry: "./src/index.tsx",
   module: {

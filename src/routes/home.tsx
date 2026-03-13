@@ -1,8 +1,6 @@
-import React, { useRef } from "react";
-import Cards from "../components/Cards";
+import React from "react";
 import Category from "../components/Category";
 import Hero from "../components/Hero";
-import Newsletter from "../components/Newsletter";
 
 function Home() {
   return (

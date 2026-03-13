@@ -1,7 +1,4 @@
 import React from "react";
-import { Single } from "../assets/single.png";
-import Double from "../assets/double.png";
-import Triple from "../assets/triple.png";
 import { CourseInfo } from "../assets/course/CourseInfo";
 import { Link } from "react-router-dom";
 import { useParams } from "react-router-dom";

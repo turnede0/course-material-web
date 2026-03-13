@@ -1,14 +1,26 @@
 import React from "react";
-const Img: any[] = [];
+import image1 from "../assets/ict/eng/1.png";
+import image2 from "../assets/ict/eng/2.png";
+import image3 from "../assets/ict/eng/3.png";
+import image4 from "../assets/ict/eng/4.png";
+import image5 from "../assets/ict/eng/5.png";
+import image6 from "../assets/ict/eng/6.png";
+import image7 from "../assets/ict/eng/7.png";
 
-for (let entry = 1; entry < 8; entry++) {
-  Img[entry] = require(`../assets/ict/eng/${entry.toString()}.png`);
-}
+const images: string[] = [
+  image1,
+  image2,
+  image3,
+  image4,
+  image5,
+  image6,
+  image7,
+];
 
 export default function ICTAwardDetail() {
   return (
     <div>
-      {Img.map((imgSrc) => {
+      {images.map((imgSrc) => {
         return (
           <img alt="gallery" className="block w-screen" src={imgSrc}></img>
         );
