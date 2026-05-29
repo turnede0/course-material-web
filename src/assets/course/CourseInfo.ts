@@ -761,6 +761,23 @@ export const CourseInfo: CourseInfoType = [
           },
         ],
       },
+      {
+        courseName: "製作NFC金屬探測器",
+        courseID: "WS008",
+        description: "製作NFC金屬探測器",
+        categoryID: "workshop",
+        image:
+          "https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg",
+        downloadUrl:
+          "https://stemturnede.sharepoint.com/sites/info.public.turned-e/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Finfo%2Epublic%2Eturned-e%2FShared%20Documents%2FCourse&p=true&ga=1",
+        resources: [
+          {
+            topic: "製作NFC金屬探測器",
+            downloadUrl:
+              "https://stemturnede.sharepoint.com/:f:/g/IgDkAhSFDw-2RoX8v1bdgQ0JAWI0xC5YnbhH9-g1oE-j1Dw",
+          },
+        ],
+      },
     ],
   },
   {
